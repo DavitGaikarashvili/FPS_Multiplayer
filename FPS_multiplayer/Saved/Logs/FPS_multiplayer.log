@@ -1239,3 +1239,89 @@ Recommended: 516.25
 [2023.07.16-10.33.18:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
 [2023.07.16-10.33.18:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
 [2023.07.16-10.33.19:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.07.16-10.33.19:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.07.16-10.33.19:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.07.16-10.33.19:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.07.16-10.33.19:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.07.16-10.33.19:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.07.16-10.33.19:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.07.16-10.33.20:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.07.16-10.33.20:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.07.16-10.33.20:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.07.16-10.33.20:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.07.16-10.33.20:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.07.16-10.33.20:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.07.16-10.33.21:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.07.16-10.33.21:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.07.16-10.33.21:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.07.16-10.33.21:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.07.16-10.33.21:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.07.16-10.33.21:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.07.16-10.33.21:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.07.16-10.33.21:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.07.16-10.33.21:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.07.16-10.33.21:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.07.16-10.33.21:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.07.16-10.33.21:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.07.16-10.33.21:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.07.16-10.33.21:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.07.16-10.33.22:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.07.16-10.33.22:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.07.16-10.33.23:270][  0]LogStaticMesh: Display: Building static mesh SM_Lamp_Ceiling...
+[2023.07.16-10.33.24:723][  0]LogStaticMesh: Built static mesh [1.78s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2023.07.16-10.33.25:377][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.16-10.33.27:281][  0]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.207683 seconds
+[2023.07.16-10.33.27:285][  0]LogSerialization: UsePackageTrailer: 'true'
+[2023.07.16-10.33.27:290][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Blueprint_CeilingLight
+[2023.07.16-10.33.27:290][  0]LogSavePackage: Moving '../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Saved/Blueprint_CeilingLightE21848F14770356A986ED9BD1B8FFB2B.tmp' to '../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2023.07.16-10.33.27:415][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.03 sec
+[2023.07.16-10.33.27:415][  0]LogFeaturePack: Inserted 1 feature packs
+[2023.07.16-10.33.27:415][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.16-10.33.27:415][  0]LightingResults: New page: Lighting Build
+[2023.07.16-10.33.27:424][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.16-10.33.27:424][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.16-10.33.27:424][  0]MapCheck: New page: Map Check
+[2023.07.16-10.33.27:424][  0]LightingResults: New page: Lighting Build
+[2023.07.16-10.33.27:435][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.16-10.33.28:082][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.07.16-10.33.28:091][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.07.16-10.33.28:091][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.16-10.33.28:093][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.07.16-10.33.28:095][  0]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.07.16-10.33.28:095][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.16-10.33.28:095][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=Untitled_1, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.07.16-10.33.28:458][  0]LogContentBundle: [Container: Untitled_1] Creating new contrainer.
+[2023.07.16-10.33.28:458][  0]LogWorldPartition: Display: WorldPartition initialize took 363 ms
+[2023.07.16-10.33.29:179][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.16-10.33.29:420][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.07.16-10.33.29:421][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.16-10.33.29:441][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 20.456ms to complete.
+[2023.07.16-10.33.29:441][  0]LogFileHelpers: Loading map 'OpenWorld' took 2.026
+[2023.07.16-10.33.30:367][  0]LogUnrealEdMisc: Total Editor Startup Time, took 119.526
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: ================================================
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 4 distinct outputs (50.00%)
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Jobs assigned 4, completed 0 (0.00%)
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.16-10.33.30:367][  0]LogShaderCompilers: Display: ================================================
+[2023.07.16-10.33.32:273][  0]LogMeshUtilities: Finished distance field build in 5.0s - 7x7x28 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 814 triangles, SM_Lamp_Ceiling
+[2023.07.16-10.33.33:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.16-10.33.33:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.16-10.33.33:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.16-10.33.33:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.16-10.33.36:370][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.07.16-10.33.36:394][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.07.16-10.33.36:458][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.07.16-10.33.36:520][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.07.16-10.33.37:397][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.07.16-10.33.37:495][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.07.16-10.33.37:592][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.07.16-10.33.37:596][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.07.16-10.33.37:629][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.07.16-10.33.37:642][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
