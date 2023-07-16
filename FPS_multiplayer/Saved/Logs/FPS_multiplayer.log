@@ -1325,3 +1325,17 @@ Recommended: 516.25
 [2023.07.16-10.33.37:596][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
 [2023.07.16-10.33.37:629][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2023.07.16-10.33.37:642][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.07.16-10.33.48:135][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.16-10.33.48:138][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.16-10.33.48:214][  0]LogSlate: Took 0.070902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.16-10.33.48:511][  0]LogViewport: Scene viewport resized to 1194x565, mode Windowed.
+[2023.07.16-10.33.50:094][  0]LogStall: Startup...
+[2023.07.16-10.33.50:097][  0]LogStall: Startup complete.
+[2023.07.16-10.33.50:114][  0]LogLoad: (Engine Initialization) Total time: 139.27 seconds
+[2023.07.16-10.33.50:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.16-10.33.50:304][  0]AssetCheck: New page: Asset Save: Blueprint_CeilingLight
+[2023.07.16-10.33.50:312][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight
+[2023.07.16-10.33.50:438][  0]LogAssetRegistry: Asset discovery search completed in 91.9481 seconds
+[2023.07.16-10.33.50:464][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2023.07.16-10.33.50:918][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.16-10.34.00:041][ 24]LogDerivedDataCache: C:/Users/msi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.158 and deleted 0 files with total size 0 MiB. Scanned 1781 files in 1777 folders with total size 86 MiB.
