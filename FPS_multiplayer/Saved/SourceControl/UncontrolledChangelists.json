@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Shapes/Shape_Cone.uasset"
+			]
+		}
+	]
+}
