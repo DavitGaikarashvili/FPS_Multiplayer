@@ -1,0 +1,5 @@
+[CookSettings]
+Version=C7C76F79
+CookMode=CookByTheBook
+DLCName=
+
