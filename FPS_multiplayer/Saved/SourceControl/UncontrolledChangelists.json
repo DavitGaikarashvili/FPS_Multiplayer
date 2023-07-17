@@ -7,14 +7,25 @@
 			"files": [
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Shapes/Shape_Cone.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Map_01.umap",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Map_01.umap",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Characters/BP_hero_Quin.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Characters/BS_Movement_Quin.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Characters/ABP_Hero_Quin.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooter-gamemode.uasset",
-				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Map_01_BuiltData.uasset"
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Map_01_BuiltData.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooter_Gameinstance.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooterMenu_Gamemode.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooterMenu_controller.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooterMenu_pawn.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/MainMenumap.umap",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/LobbymenuMap.umap",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Widgets/WB_MainMenu.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shotter_PlayerController.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/SavedData/S_PlayerProfile.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/SavedData/SG_PlayerProfile.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/MainMenumap_BuiltData.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Map_01.umap"
 			]
 		}
 	]
