@@ -1,0 +1,56 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Take Recorder",
+	"Description": "A suite of tools and interfaces designed for recording, reviewing and playing back takes in a virtual production environment.",
+	"Category": "Virtual Production",
+	"CreatedBy": "Epic Games Inc.",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Plugins":
+	[
+		{
+			"Name": "LevelSequenceEditor",
+			"Enabled": true
+		}
+	],
+	"Modules": 
+	[
+		{
+			"Name": "TakesCore",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "TakeTrackRecorders",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "TakeRecorderSources",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "TakeRecorder",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "TakeMovieScene",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "TakeSequencer",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

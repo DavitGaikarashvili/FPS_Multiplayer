@@ -1,4 +1,5 @@
 [UsedSettings]
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 Windows.Engine:AssetRegistry:CookedTagsBlacklist:0=(Class=/Script/Engine.Blueprint,Tag=FiB)
@@ -177,6 +178,7 @@ Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Maps/Menu/
 Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/FrameWork/BP_shooter-gamemode.BP_shooter-gamemode_C
 Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
+Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=/Game/Maps/Map_01.Map_01
 Engine:InstallBundleManager:EditorModuleName:0=NullInstallBundleManager
 Engine:URL:Protocol:0=unreal
 Engine:URL:Name:0=Player
@@ -439,7 +441,6 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
-Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -718,8 +719,8 @@ Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=D891A4054BCD75C2DE8B3EA4AF1CB4DE
-Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
-Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
@@ -736,11 +737,40 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:InternationalizationPreset:0=English
-Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
+Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:WriteBackMetadataToAssetRegistry:0=Disabled
+Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
+Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
+Game:/Script/UnrealEd.ProjectPackagingSettings:LaunchOnTarget:0=
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/msi/OneDrive/Desktop/wasashleli")
+Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
+Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bUseZenStore:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bMakeBinaryConfig:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateNoChunks:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bForceOneChunkPerFile:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
+Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataDirectory:0=(Path="")
+Game:/Script/UnrealEd.ProjectPackagingSettings:PackageAdditionalCompressionOptions:0=
+Game:/Script/UnrealEd.ProjectPackagingSettings:bPackageCompressionEnableDDC:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionMinSizeToConsiderDDC:0=0
+Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataVersion:0=
+Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeAppLocalPrerequisites:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=(Path="")
+Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
+Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
+Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
+Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildTarget:0=()
 Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
 Game:/Script/Engine.PlayerController:InputRollScale:0=1.0
@@ -1304,9 +1334,9 @@ OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=5
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
 WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
-NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=76
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
+NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=76
 VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
 Dev-ControlRig:A7820CFB20A743598C542C149623CF50=21

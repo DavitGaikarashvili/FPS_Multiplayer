@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 131,
+	"VersionName": "1.3.1",
+	"FriendlyName": "glTF Exporter",
+	"Description": "An exporter for Khronos glTF 2.0.",
+	"Category": "Exporters",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"Modules": [
+		{
+			"Name": "GLTFExporter",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [ "Win64", "Mac", "Linux" ]
+		},
+		{
+			"Name": "GLTFMaterialAnalyzer",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64", "Mac", "Linux" ]
+		},
+		{
+			"Name": "GLTFMaterialBaking",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64", "Mac", "Linux" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VariantManagerContent",
+			"Enabled": true
+		}
+	]
+}

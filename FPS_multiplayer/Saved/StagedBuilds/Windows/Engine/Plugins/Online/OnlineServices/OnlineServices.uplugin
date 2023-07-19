@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+
+	"FriendlyName": "Online Services",
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Shared code for interacting with online services implementations.",
+	"Category": "Online Platform",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"EnabledByDefault": false,
+
+	"Modules": [
+		{
+			"Name": "OnlineServicesInterface",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "OnlineServicesCommon",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "OnlineServicesCommonEngineUtils",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineBase",
+			"Enabled": true
+		}
+	]
+}

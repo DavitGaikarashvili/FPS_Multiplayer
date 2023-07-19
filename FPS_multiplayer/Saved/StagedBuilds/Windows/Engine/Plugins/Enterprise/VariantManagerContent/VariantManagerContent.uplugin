@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Variant Manager Content",
+	"Description": "Data classes and assets for the Variant Manager enterprise plugin",
+	"Category": "Editor",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "https://docs.unrealengine.com/en-US/WorkingWithContent/Importing/Datasmith/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault" : true,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules" :
+	[
+		{
+			"Name": "VariantManagerContent",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "VariantManagerContentEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
