@@ -1546,3 +1546,27 @@ End Object
 [2023.07.25-11.13.38:205][836]LogAudio: Display: Audio Device Manager Shutdown
 [2023.07.25-11.13.38:272][836]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
 [2023.07.25-11.13.38:331][836]LogExit: Preparing to exit.
+[2023.07.25-11.13.39:825][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.25-11.13.39:865][836]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:865][836]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:871][836]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:872][836]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.39:873][836]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-11.13.41:423][836]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.43:504][836]LogExit: Editor shut down
+[2023.07.25-11.13.43:509][836]LogExit: Transaction tracking system shut down
+[2023.07.25-11.13.43:596][836]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
