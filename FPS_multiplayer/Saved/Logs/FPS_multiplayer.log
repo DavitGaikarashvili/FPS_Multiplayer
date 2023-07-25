@@ -1499,3 +1499,50 @@ End Object
 [2023.07.25-11.02.23:625][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 7.91 sec)
 [2023.07.25-11.02.23:636][505]AssetCheck: New page: Asset Save: WB_MPMenu
 [2023.07.25-11.02.23:636][505]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MPMenu.WB_MPMenu
+[2023.07.25-11.04.24:199][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.07.25-11.04.24:203][624]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menu/MainMenumap' took 0.087
+[2023.07.25-11.04.24:203][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FrameWork/BP_shooter_Gameinstance] ([2] browsable assets)...
+[2023.07.25-11.04.24:203][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/FrameWork/BP_shooter_Gameinstance]
+[2023.07.25-11.04.24:230][624]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FrameWork/BP_shooter_Gameinstance_Auto4
+[2023.07.25-11.04.24:230][624]LogSavePackage: Moving '../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Saved/BP_shooter_Gameinstance_Auto492C8291D4BB83CC54539608BCA4032DE.tmp' to '../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Saved/Autosaves/Game/FrameWork/BP_shooter_Gameinstance_Auto4.uasset'
+[2023.07.25-11.04.24:232][624]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.07.25-11.13.23:976][552]BlueprintLog: New page: Compile BP_shooter_Gameinstance
+[2023.07.25-11.13.24:181][552]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.07.25-11.13.26:279][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.25-11.13.26:408][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FrameWork/BP_shooter_Gameinstance" FILE="../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooter_Gameinstance.uasset" SILENT=true
+[2023.07.25-11.13.26:436][668]LogSavePackage: Moving output files for package: /Game/FrameWork/BP_shooter_Gameinstance
+[2023.07.25-11.13.26:437][668]LogSavePackage: Moving '../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Saved/BP_shooter_Gameinstance3F06B4A244E585C445CC33A3289FF8A4.tmp' to '../../../../GDC/FPS_Multiplayer/FPS_multiplayer/Content/FrameWork/BP_shooter_Gameinstance.uasset'
+[2023.07.25-11.13.26:452][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 8.08 sec)
+[2023.07.25-11.13.26:469][668]AssetCheck: New page: Asset Save: BP_shooter_Gameinstance
+[2023.07.25-11.13.26:469][668]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FrameWork/BP_shooter_Gameinstance.BP_shooter_Gameinstance
+[2023.07.25-11.13.34:853][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.07.25-11.13.34:878][835]LogStall: Shutdown...
+[2023.07.25-11.13.34:902][835]LogStall: Shutdown complete.
+[2023.07.25-11.13.35:112][835]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.35:112][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-11.13.35:787][835]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.35:787][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-11.13.35:802][835]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.35:802][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-11.13.35:949][835]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.35:950][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-11.13.35:963][835]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.35:963][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-11.13.36:172][835]LogSlate: Window 'FPS_multiplayer - Unreal Editor' being destroyed
+[2023.07.25-11.13.36:946][836]Cmd: QUIT_EDITOR
+[2023.07.25-11.13.36:946][836]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.25-11.13.37:021][836]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.25-11.13.37:040][836]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.25-11.13.37:052][836]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.25-11.13.37:137][836]LogWorld: UWorld::CleanupWorld for MainMenumap, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-11.13.37:168][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-11.13.37:318][836]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.25-11.13.37:444][836]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.25-11.13.37:988][836]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.25-11.13.37:988][836]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.25-11.13.37:988][836]LogAudio: Display: Audio Device unregistered from world 'MainMenumap'.
+[2023.07.25-11.13.38:136][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.25-11.13.38:139][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.25-11.13.38:205][836]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.25-11.13.38:272][836]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.25-11.13.38:331][836]LogExit: Preparing to exit.
