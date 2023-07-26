@@ -1,10 +1,6 @@
 {
 	"Files": [
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
-			"ChunkId": "90442f10ca8d9eb700000001"
-		},
-		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset",
 			"ChunkId": "7aba7a84b764bf1300000001"
 		},
@@ -29,12 +25,8 @@
 			"ChunkId": "e670df8e769d382e00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset",
-			"ChunkId": "7045cf1b55a1317500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset",
-			"ChunkId": "f1ebd6418dba317a00000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
+			"ChunkId": "90442f10ca8d9eb700000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset",
@@ -43,14 +35,6 @@
 		{
 			"Path": "Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
 			"ChunkId": "86f514aa5cdc08e700000001"
-		},
-		{
-			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
-			"ChunkId": "d9ef76f15dcbda9d00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
-			"ChunkId": "f0a7f83421ac425b00000001"
 		},
 		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset",
@@ -101,10 +85,6 @@
 			"ChunkId": "c1ceadea19a929af00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset",
-			"ChunkId": "6ca66bbcba09d42900000001"
-		},
-		{
 			"Path": "Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset",
 			"ChunkId": "fd3456639b15286700000001"
 		},
@@ -141,162 +121,6 @@
 			"ChunkId": "0668993fb5b5811c00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
-			"ChunkId": "27d3dbbd9cb5875a00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
-			"ChunkId": "27d3dbbd9cb5875a00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
-			"ChunkId": "8500a33b2fedbab800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
-			"ChunkId": "b60efe12572543e800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultBokeh.uasset",
-			"ChunkId": "65401b411493477b00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset",
-			"ChunkId": "ad84bf334b97e1af00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultBloomKernel.uasset",
-			"ChunkId": "cbab6b01dd8b7ffe00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/BSPVertex.uasset",
-			"ChunkId": "9784ada5ce57b7cb00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset",
-			"ChunkId": "ea0f5dd142fa12ab00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset",
-			"ChunkId": "b61e99bc8320e42b00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset",
-			"ChunkId": "9c7151fedab8d7e200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset",
-			"ChunkId": "ecd9b30185efcf5800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset",
-			"ChunkId": "20fa3a2484d4c32600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset",
-			"ChunkId": "fd5c4b2d837478ae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Terrain.uasset",
-			"ChunkId": "5cea311860b94ecb00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Terrain.ubulk",
-			"ChunkId": "5cea311860b94ecb00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset",
-			"ChunkId": "8b12fc0ce026f5be00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
-			"ChunkId": "624f937426db20c500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk",
-			"ChunkId": "624f937426db20c500000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
-			"ChunkId": "4077f21c1acd58d500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/MiniFont.uasset",
-			"ChunkId": "58ac407f95ae164b00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
-			"ChunkId": "1c3a80931d7381bf00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset",
-			"ChunkId": "4eefe050ec0582d800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset",
-			"ChunkId": "28ed83b8029dd22900000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset",
-			"ChunkId": "c599b991259f3dc100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset",
-			"ChunkId": "0219c3161c6d6eb200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset",
-			"ChunkId": "d77ca907bf9be46e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset",
-			"ChunkId": "adba4404ca6448ad00000001"
-		},
-		{
-			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset",
-			"ChunkId": "b60fa590a5fe4d6f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset",
-			"ChunkId": "c18dd883a0c55c8b00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset",
-			"ChunkId": "768633666781f70600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset",
-			"ChunkId": "2563b8e7aff6d26e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset",
-			"ChunkId": "7ba7b2b1aeafb4cc00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset",
-			"ChunkId": "641c8321450e97f400000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/GizmoMaterial.uasset",
-			"ChunkId": "4f766dcdfcc10abc00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
-			"ChunkId": "cdb6f2e8065df7c100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk",
-			"ChunkId": "cdb6f2e8065df7c100000002"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
-			"ChunkId": "6f3a7c0fe1cf64ce00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
-			"ChunkId": "efd3b99beb745ea100000001"
-		},
-		{
 			"Path": "Engine/Content/EngineFonts/Faces/RobotoItalic.uasset",
 			"ChunkId": "6ef7eb5c150af73a00000001"
 		},
@@ -311,10 +135,6 @@
 		{
 			"Path": "Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset",
 			"ChunkId": "a9e44eb998f07d0800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset",
-			"ChunkId": "a06a91154845992200000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset",
@@ -361,32 +181,12 @@
 			"ChunkId": "474711309ee6ba8900000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset",
-			"ChunkId": "1e8860c1da3e1ade00000001"
+			"Path": "Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset",
+			"ChunkId": "ecd9b30185efcf5800000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
-			"ChunkId": "0125e0852ce3d3e700000001"
-		},
-		{
-			"Path": "Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset",
-			"ChunkId": "6229e1c5b978089900000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/Camera/CineMat.uasset",
-			"ChunkId": "a60f7c53ca2e732e00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/Xray.uasset",
-			"ChunkId": "b0afffa81f17b5cc00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
-			"ChunkId": "36f9c4a1a41147a000000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
-			"ChunkId": "f267c7830989284200000001"
+			"Path": "Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset",
+			"ChunkId": "20fa3a2484d4c32600000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset",
@@ -461,10 +261,6 @@
 			"ChunkId": "adfc0c5cb146690600000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
-			"ChunkId": "e61c20398c40eda200000001"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset",
 			"ChunkId": "3b047fdea50e991600000001"
 		},
@@ -479,6 +275,22 @@
 		{
 			"Path": "FPS_multiplayer/Content/Maps/Menu/MainMenumap_BuiltData.uasset",
 			"ChunkId": "a6beeaba8a9ef00700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset",
+			"ChunkId": "fd5c4b2d837478ae00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset",
+			"ChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBloomKernel.uasset",
+			"ChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset",
+			"ChunkId": "ea0f5dd142fa12ab00000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/FrameWork/BP_shooterMenu_controller.uasset",
@@ -497,12 +309,132 @@
 			"ChunkId": "559f5666e5171f0800000001"
 		},
 		{
+			"Path": "Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset",
+			"ChunkId": "f1ebd6418dba317a00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/BSPVertex.uasset",
+			"ChunkId": "9784ada5ce57b7cb00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset",
+			"ChunkId": "9c7151fedab8d7e200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset",
+			"ChunkId": "8b12fc0ce026f5be00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset",
+			"ChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset",
+			"ChunkId": "b61e99bc8320e42b00000001"
+		},
+		{
 			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Mesh/SK_Pistol_PhysicsAsset.uasset",
 			"ChunkId": "871d640b0e2b69df00000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Mesh/SK_Pistol_Skeleton.uasset",
 			"ChunkId": "ccaa48145f1cc75a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
+			"ChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
+			"ChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/Camera/CineMat.uasset",
+			"ChunkId": "a60f7c53ca2e732e00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+			"ChunkId": "b0afffa81f17b5cc00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset",
+			"ChunkId": "6ca66bbcba09d42900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Terrain.uasset",
+			"ChunkId": "5cea311860b94ecb00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Terrain.ubulk",
+			"ChunkId": "5cea311860b94ecb00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/GizmoMaterial.uasset",
+			"ChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+			"ChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+			"ChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset",
+			"ChunkId": "6229e1c5b978089900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset",
+			"ChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/Main.uasset",
+			"ChunkId": "36f9c4a1a41147a000000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
+			"ChunkId": "f267c7830989284200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
+			"ChunkId": "67d4e8f2a83a1c4800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
+			"ChunkId": "8953c1244c740aad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+			"ChunkId": "e61c20398c40eda200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset",
+			"ChunkId": "1e8860c1da3e1ade00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
+			"ChunkId": "624f937426db20c500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk",
+			"ChunkId": "624f937426db20c500000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
+			"ChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/MiniFont.uasset",
+			"ChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
+			"ChunkId": "1c3a80931d7381bf00000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset",
@@ -533,14 +465,6 @@
 			"ChunkId": "743d8363b49b69ed00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
-			"ChunkId": "da9ef9387e6c513600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
-			"ChunkId": "6ebbe4a6ced841cc00000001"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
 			"ChunkId": "4762b775bfe4b22d00000001"
 		},
@@ -555,30 +479,6 @@
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
 			"ChunkId": "7936cc24a0df034100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
-			"ChunkId": "f38cb73e67825d9600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
-			"ChunkId": "2acd952336aab07f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
-			"ChunkId": "3c018da41573213600000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"ChunkId": "12c2c1346a8453a600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
-			"ChunkId": "3bf2df25e14476d700000001"
 		},
 		{
 			"Path": "Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset",
@@ -609,48 +509,20 @@
 			"ChunkId": "c851afa144f311c000000001"
 		},
 		{
-			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
-			"ChunkId": "6fab96d8842b418000000001"
+			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
+			"ChunkId": "ff5a26a059754af200000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset",
 			"ChunkId": "a365ccf446169e3a00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
-			"ChunkId": "27d7aeddb1b7c7fc00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
-			"ChunkId": "497b4263fbd333c800000001"
-		},
-		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset",
 			"ChunkId": "e786ac693542bdc000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
-			"ChunkId": "6c3a98c4aa151a5300000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
-			"ChunkId": "305a1ec18dd5a4be00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
-			"ChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
-			"ChunkId": "ef400c1f3fd91f2a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
-			"ChunkId": "b4d3126ba7954ec000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
-			"ChunkId": "eeb296b2a739309500000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset",
@@ -663,6 +535,42 @@
 		{
 			"Path": "Engine/Content/EditorBlueprintResources/ActorMacros.uasset",
 			"ChunkId": "24c197abc18b320300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire01.uasset",
+			"ChunkId": "c3856b5096b2f48b00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire01.ubulk",
+			"ChunkId": "c3856b5096b2f48b00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
+			"ChunkId": "a8fda97722bfb0e600000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/SavedData/SG_PlayerProfile.uasset",
@@ -685,32 +593,72 @@
 			"ChunkId": "bdbcf28d7739806c00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset",
-			"ChunkId": "87099a79bdf858fb00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
-			"ChunkId": "e3ad05e4a2d7a17c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "14c0e68102482a4700000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
-			"ChunkId": "a4739b1d475b4a3e00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
-			"ChunkId": "fabb39727be145c100000001"
-		},
-		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset",
 			"ChunkId": "5eb980ed43420e6a00000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/FrameWork/BP_shooterMenu_Gamemode.uasset",
 			"ChunkId": "888c96402262d3cf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire02.uasset",
+			"ChunkId": "639174cb9fe010fa00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire02.ubulk",
+			"ChunkId": "639174cb9fe010fa00000002"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
+			"ChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"ChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MM_Pistol_Idle_ADS.uasset",
+			"ChunkId": "c155e784e30af86300000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Idle_Ready.uasset",
+			"ChunkId": "aaf36d04f83221e300000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Left_Pivot.uasset",
+			"ChunkId": "4dda218abda4832a00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Right.uasset",
+			"ChunkId": "876fd0b3b7679a9700000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MF_Pistol_Idle_ADS.uasset",
+			"ChunkId": "fda317a7c6e7bb5200000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.uasset",
@@ -725,10 +673,6 @@
 			"ChunkId": "dab3ede8bda8d8ca00000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Weapons/Generic/Materials/M_Weapon.uasset",
-			"ChunkId": "0ecd7a3d4a7cace900000001"
-		},
-		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uasset",
 			"ChunkId": "76c2c1a280163bbe00000001"
 		},
@@ -737,8 +681,380 @@
 			"ChunkId": "1eb36adebf3e8d6900000001"
 		},
 		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
-			"ChunkId": "b2e758c7adce0aa000000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Bwd.uasset",
+			"ChunkId": "32fe69a434750fb800000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset",
+			"ChunkId": "fabb39727be145c100000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST01.uasset",
+			"ChunkId": "ce66927f21ed92d500000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST01.ubulk",
+			"ChunkId": "ce66927f21ed92d500000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST02.uasset",
+			"ChunkId": "bc62f55bdb8e4c9a00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST02.ubulk",
+			"ChunkId": "bc62f55bdb8e4c9a00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST03.uasset",
+			"ChunkId": "75cf055d50ffbad400000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST03.ubulk",
+			"ChunkId": "75cf055d50ffbad400000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST04.uasset",
+			"ChunkId": "f746c008cd6dd2a100000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST04.ubulk",
+			"ChunkId": "f746c008cd6dd2a100000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST05.uasset",
+			"ChunkId": "ef577339ac3f8a3100000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST05.ubulk",
+			"ChunkId": "ef577339ac3f8a3100000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST06.uasset",
+			"ChunkId": "a40bac8fe9edcc3e00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST06.ubulk",
+			"ChunkId": "a40bac8fe9edcc3e00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire05.uasset",
+			"ChunkId": "41ba570d5bc8e49200000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire05.ubulk",
+			"ChunkId": "41ba570d5bc8e49200000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire06.uasset",
+			"ChunkId": "f881296b2116f68900000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire06.ubulk",
+			"ChunkId": "f881296b2116f68900000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire03.uasset",
+			"ChunkId": "2cc1b4acbe24ea2400000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire03.ubulk",
+			"ChunkId": "2cc1b4acbe24ea2400000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire04.uasset",
+			"ChunkId": "6b031f6cf80188d000000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire04.ubulk",
+			"ChunkId": "6b031f6cf80188d000000002"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
+			"ChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset",
+			"ChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset",
+			"ChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBokeh.uasset",
+			"ChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset",
+			"ChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset",
+			"ChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset",
+			"ChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset",
+			"ChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset",
+			"ChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset",
+			"ChunkId": "768633666781f70600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset",
+			"ChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset",
+			"ChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
+			"ChunkId": "cdb6f2e8065df7c100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk",
+			"ChunkId": "cdb6f2e8065df7c100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
+			"ChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
+			"ChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
+			"ChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"ChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
+			"ChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset",
+			"ChunkId": "87099a79bdf858fb00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
+			"ChunkId": "6098725f85292e1b00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Left.uasset",
+			"ChunkId": "3aff7d0bd659dae400000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Fwd.uasset",
+			"ChunkId": "9dbb7f4bd6c6325700000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Pistol_MuzzleFlash_4x1_A.uasset",
+			"ChunkId": "69057f947a29ba9100000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Pistol_Smoke_2x2_A.uasset",
+			"ChunkId": "92b8f18329d56a8100000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Pistol_Streaks_01.uasset",
+			"ChunkId": "ce6db9bca505ae8700000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Smoke_8x8_B_01.uasset",
+			"ChunkId": "9c6e4fbc613f7dfd00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Weapons/Generic/Materials/M_Weapon.uasset",
+			"ChunkId": "0ecd7a3d4a7cace900000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Right.uasset",
+			"ChunkId": "0b095a9b218a41d300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/Black.uasset",
+			"ChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
+			"ChunkId": "730711032edb546300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset",
+			"ChunkId": "92d47df83dccf7d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk",
+			"ChunkId": "92d47df83dccf7d800000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset",
+			"ChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
+			"ChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset",
+			"ChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset",
+			"ChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset",
+			"ChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
+			"ChunkId": "27d3dbbd9cb5875a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
+			"ChunkId": "27d3dbbd9cb5875a00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
+			"ChunkId": "0bf1d6a9c47f8ccc00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
+			"ChunkId": "0bf1d6a9c47f8ccc00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"ChunkId": "ba6543c81e92e56d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
+			"ChunkId": "ba6543c81e92e56d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
+			"ChunkId": "200cd3dc0f3f673a00000001"
+		},
+		{
+			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk",
+			"ChunkId": "200cd3dc0f3f673a00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Bwd.uasset",
+			"ChunkId": "231403520a9768d000000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Fwd.uasset",
+			"ChunkId": "e2ccb6b14ca411f700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
+			"ChunkId": "34b40296d0d3844e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
+			"ChunkId": "a996adcfa357ed2d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
+			"ChunkId": "a996adcfa357ed2d00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Trigger.uasset",
+			"ChunkId": "9acae5549f0219b000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Trigger.ubulk",
+			"ChunkId": "9acae5549f0219b000000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"ChunkId": "7a7173cfb4095b9f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
+			"ChunkId": "7a7173cfb4095b9f00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"ChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
+			"ChunkId": "6baf53cf79c0948b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
+			"ChunkId": "6baf53cf79c0948b00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b5188ac73a55976200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlatNormal.uasset",
+			"ChunkId": "2b69d7985d15bf2200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
+			"ChunkId": "b743bdd5e5df72a400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
+			"ChunkId": "b743bdd5e5df72a400000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
+			"ChunkId": "5c918efb403d4bb200000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
+			"ChunkId": "5c918efb403d4bb200000002"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
@@ -821,6 +1137,34 @@
 			"ChunkId": "8b957d3c17c70d9600000001"
 		},
 		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
+			"ChunkId": "56d51199b9b2142a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
+			"ChunkId": "56d51199b9b2142a00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultNormal.uasset",
+			"ChunkId": "e790deb464e7a3d200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultNormal.ubulk",
+			"ChunkId": "e790deb464e7a3d200000002"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
+			"ChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
 			"ChunkId": "4b7bf926a5212df600000001"
 		},
@@ -851,46 +1195,6 @@
 		{
 			"Path": "Engine/Content/BasicShapes/Sphere.ubulk",
 			"ChunkId": "4a782f60fcb4c26e00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
-			"ChunkId": "6098725f85292e1b00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Pistol_MuzzleFlash_4x1_A.uasset",
-			"ChunkId": "69057f947a29ba9100000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Pistol_Smoke_2x2_A.uasset",
-			"ChunkId": "92b8f18329d56a8100000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Pistol_Streaks_01.uasset",
-			"ChunkId": "ce6db9bca505ae8700000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_Smoke_8x8_B_01.uasset",
-			"ChunkId": "9c6e4fbc613f7dfd00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
-			"ChunkId": "0ec7598e2050155600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
-			"ChunkId": "7bb897d6d85abe5e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
-			"ChunkId": "85eb7ec9f6c8613a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
-			"ChunkId": "dd353fe85598727e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
-			"ChunkId": "34868b7f9c10838900000001"
 		},
 		{
 			"Path": "Engine/Content/Maps/Entry.umap",
@@ -969,392 +1273,16 @@
 			"ChunkId": "6bcf318dbf32160d00000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset",
-			"ChunkId": "8ff50e13d07b6e9600000001"
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
+			"ChunkId": "7bb897d6d85abe5e00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk",
-			"ChunkId": "8ff50e13d07b6e9600000002"
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
+			"ChunkId": "85eb7ec9f6c8613a00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset",
-			"ChunkId": "282dd182b8a2782f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk",
-			"ChunkId": "282dd182b8a2782f00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset",
-			"ChunkId": "2c09f940b5d3cf5600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk",
-			"ChunkId": "2c09f940b5d3cf5600000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset",
-			"ChunkId": "d77ff1320cafb8eb00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk",
-			"ChunkId": "d77ff1320cafb8eb00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset",
-			"ChunkId": "3c8fe56dcc4c94e400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk",
-			"ChunkId": "3c8fe56dcc4c94e400000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset",
-			"ChunkId": "021da6225c7f517f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk",
-			"ChunkId": "021da6225c7f517f00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire04.uasset",
-			"ChunkId": "6b031f6cf80188d000000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire04.ubulk",
-			"ChunkId": "6b031f6cf80188d000000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire05.uasset",
-			"ChunkId": "41ba570d5bc8e49200000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire05.ubulk",
-			"ChunkId": "41ba570d5bc8e49200000002"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
-			"ChunkId": "f87a01e7b138538a00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
-			"ChunkId": "b85ee5fd59f4dd2000000001"
-		},
-		{
-			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
-			"ChunkId": "7f8259be57e87dce00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.uasset",
-			"ChunkId": "5c918efb403d4bb200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Solver.ubulk",
-			"ChunkId": "5c918efb403d4bb200000002"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
-			"ChunkId": "0bf1d6a9c47f8ccc00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk",
-			"ChunkId": "0bf1d6a9c47f8ccc00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
-			"ChunkId": "ba6543c81e92e56d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
-			"ChunkId": "ba6543c81e92e56d00000002"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
-			"ChunkId": "2cc5808063f890db00000001"
-		},
-		{
-			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
-			"ChunkId": "2cc5808063f890db00000002"
-		},
-		{
-			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset",
-			"ChunkId": "200cd3dc0f3f673a00000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk",
-			"ChunkId": "200cd3dc0f3f673a00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/Black.uasset",
-			"ChunkId": "cda0cf6115260c9400000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
-			"ChunkId": "a996adcfa357ed2d00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
-			"ChunkId": "a996adcfa357ed2d00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
-			"ChunkId": "730711032edb546300000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset",
-			"ChunkId": "92d47df83dccf7d800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk",
-			"ChunkId": "92d47df83dccf7d800000002"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset",
-			"ChunkId": "e21a9990b0ff22d600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset",
-			"ChunkId": "b3b465c34fc83f8e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset",
-			"ChunkId": "d28cf23bc747e18000000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
-			"ChunkId": "67d4e8f2a83a1c4800000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
-			"ChunkId": "a8fda97722bfb0e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_TriggerBox.uasset",
-			"ChunkId": "8953c1244c740aad00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Trigger.uasset",
-			"ChunkId": "9acae5549f0219b000000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Trigger.ubulk",
-			"ChunkId": "9acae5549f0219b000000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
-			"ChunkId": "7a7173cfb4095b9f00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
-			"ChunkId": "7a7173cfb4095b9f00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
-			"ChunkId": "b743bdd5e5df72a400000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
-			"ChunkId": "b743bdd5e5df72a400000002"
-		},
-		{
-			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
-			"ChunkId": "52a5c49a743a12b500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
-			"ChunkId": "6c54e7f6d4ea912200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
-			"ChunkId": "e6291a81a77661e900000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
-			"ChunkId": "3e6f2bc6739d380300000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_BoxReflectionCapture.uasset",
-			"ChunkId": "ff5a26a059754af200000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire01.uasset",
-			"ChunkId": "c3856b5096b2f48b00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire01.ubulk",
-			"ChunkId": "c3856b5096b2f48b00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire02.uasset",
-			"ChunkId": "639174cb9fe010fa00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire02.ubulk",
-			"ChunkId": "639174cb9fe010fa00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire03.uasset",
-			"ChunkId": "2cc1b4acbe24ea2400000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire03.ubulk",
-			"ChunkId": "2cc1b4acbe24ea2400000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire06.uasset",
-			"ChunkId": "f881296b2116f68900000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire06.ubulk",
-			"ChunkId": "f881296b2116f68900000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST01.uasset",
-			"ChunkId": "ce66927f21ed92d500000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST01.ubulk",
-			"ChunkId": "ce66927f21ed92d500000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST02.uasset",
-			"ChunkId": "bc62f55bdb8e4c9a00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST02.ubulk",
-			"ChunkId": "bc62f55bdb8e4c9a00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST03.uasset",
-			"ChunkId": "75cf055d50ffbad400000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST03.ubulk",
-			"ChunkId": "75cf055d50ffbad400000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST04.uasset",
-			"ChunkId": "f746c008cd6dd2a100000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST04.ubulk",
-			"ChunkId": "f746c008cd6dd2a100000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST05.uasset",
-			"ChunkId": "ef577339ac3f8a3100000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST05.ubulk",
-			"ChunkId": "ef577339ac3f8a3100000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MM_Pistol_Idle_ADS.uasset",
-			"ChunkId": "c155e784e30af86300000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Idle_Ready.uasset",
-			"ChunkId": "aaf36d04f83221e300000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Right.uasset",
-			"ChunkId": "876fd0b3b7679a9700000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MF_Pistol_Idle_ADS.uasset",
-			"ChunkId": "fda317a7c6e7bb5200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/FlatNormal.uasset",
-			"ChunkId": "2b69d7985d15bf2200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset",
-			"ChunkId": "d2053e0c288df1b900000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
-			"ChunkId": "7539f12095a3f0d100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
-			"ChunkId": "7539f12095a3f0d100000002"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
-			"ChunkId": "6baf53cf79c0948b00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
-			"ChunkId": "6baf53cf79c0948b00000002"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
-			"ChunkId": "bd472f8cbf5f723d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_Actor.ubulk",
-			"ChunkId": "bd472f8cbf5f723d00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uasset",
-			"ChunkId": "dc070bff4266afee00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset",
-			"ChunkId": "8b25d269c89d5cf200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset",
-			"ChunkId": "693d58be32694a0500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uasset",
-			"ChunkId": "662011f8ffe9952200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset",
-			"ChunkId": "1155c8084c57d82a00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset",
-			"ChunkId": "7bb138a69f4619a100000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultNormal.uasset",
-			"ChunkId": "e790deb464e7a3d200000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultNormal.ubulk",
-			"ChunkId": "e790deb464e7a3d200000002"
-		},
-		{
-			"Path": "Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset",
-			"ChunkId": "b5188ac73a55976200000001"
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
+			"ChunkId": "dd353fe85598727e00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSky/T_Sky_Blue.uasset",
@@ -1365,60 +1293,20 @@
 			"ChunkId": "86737b633647e77300000002"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
-			"ChunkId": "927b2fe4876a1f7400000001"
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
+			"ChunkId": "0ec7598e2050155600000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
-			"ChunkId": "927b2fe4876a1f7400000002"
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
+			"ChunkId": "34868b7f9c10838900000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Stars.uasset",
-			"ChunkId": "56d51199b9b2142a00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N.uasset",
+			"ChunkId": "c7cc2086eda77c4e00000001"
 		},
 		{
-			"Path": "Engine/Content/EngineSky/T_Sky_Stars.ubulk",
-			"ChunkId": "56d51199b9b2142a00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST06.uasset",
-			"ChunkId": "a40bac8fe9edcc3e00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST06.ubulk",
-			"ChunkId": "a40bac8fe9edcc3e00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset",
-			"ChunkId": "34b40296d0d3844e00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
-			"ChunkId": "b1dd9666d4d25cf600000001"
-		},
-		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
-			"ChunkId": "eb26c788a1a10ea100000001"
-		},
-		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
-			"ChunkId": "eb26c788a1a10ea100000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D.uasset",
-			"ChunkId": "19dbe87fbbbbadf300000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D.ubulk",
-			"ChunkId": "19dbe87fbbbbadf300000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK.uasset",
-			"ChunkId": "9b537d01fc22bcae00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK.ubulk",
-			"ChunkId": "9b537d01fc22bcae00000002"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N.ubulk",
+			"ChunkId": "c7cc2086eda77c4e00000002"
 		},
 		{
 			"Path": "Engine/Content/BasicShapes/Plane.uasset",
@@ -1509,16 +1397,28 @@
 			"ChunkId": "0f04125236969f2000000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset",
-			"ChunkId": "481af9927a0fd4e500000001"
-		},
-		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset",
 			"ChunkId": "6ef7819258ad309900000001"
 		},
 		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset",
+			"ChunkId": "8ff50e13d07b6e9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk",
+			"ChunkId": "8ff50e13d07b6e9600000002"
+		},
+		{
 			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.uasset",
 			"ChunkId": "1a175ae23ad6d41400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset",
+			"ChunkId": "282dd182b8a2782f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk",
+			"ChunkId": "282dd182b8a2782f00000002"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Materials/MI_Weapon_Pistol.uasset",
@@ -1537,8 +1437,40 @@
 			"ChunkId": "242cab5f67ee300e00000001"
 		},
 		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset",
+			"ChunkId": "9f17ab2167ce1be600000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/AO_MF_Pistol_Idle_ADS.uasset",
+			"ChunkId": "1225c5b7aa010cdb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset",
+			"ChunkId": "2c09f940b5d3cf5600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk",
+			"ChunkId": "2c09f940b5d3cf5600000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_GlowSphere_01.uasset",
+			"ChunkId": "15f3bf21ba4c778e00000001"
+		},
+		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
 			"ChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+			"ChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+			"ChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset",
+			"ChunkId": "d918e06ff9ea46e100000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset",
@@ -1553,104 +1485,48 @@
 			"ChunkId": "898199688adbdfb100000001"
 		},
 		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset",
+			"ChunkId": "6e11d15e7c810c8200000001"
+		},
+		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset",
 			"ChunkId": "00b0acb8356d298100000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset",
-			"ChunkId": "9f17ab2167ce1be600000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CC.uasset",
+			"ChunkId": "2b28e7f3b19946b700000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/AO_MF_Pistol_Idle_ADS.uasset",
-			"ChunkId": "1225c5b7aa010cdb00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CD.uasset",
+			"ChunkId": "1b72e1c9e5d9364000000001"
 		},
 		{
-			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
-			"ChunkId": "801dc51816054cd400000001"
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset",
+			"ChunkId": "481af9927a0fd4e500000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.uasset",
-			"ChunkId": "4914979a467faeff00000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset",
+			"ChunkId": "d77ff1320cafb8eb00000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.ubulk",
-			"ChunkId": "4914979a467faeff00000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk",
+			"ChunkId": "d77ff1320cafb8eb00000002"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Mesh/SK_Pistol.uasset",
-			"ChunkId": "28d805865808282500000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset",
+			"ChunkId": "3c8fe56dcc4c94e400000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Materials/M_GlowSphere_01.uasset",
-			"ChunkId": "15f3bf21ba4c778e00000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk",
+			"ChunkId": "3c8fe56dcc4c94e400000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
-			"ChunkId": "1b32f3f341cb246000000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset",
+			"ChunkId": "021da6225c7f517f00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk",
-			"ChunkId": "1b32f3f341cb246000000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset",
-			"ChunkId": "6ff734fd30628e8c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk",
-			"ChunkId": "6ff734fd30628e8c00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset",
-			"ChunkId": "1b6c8e2dd045aecf00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk",
-			"ChunkId": "1b6c8e2dd045aecf00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Fwd.uasset",
-			"ChunkId": "9dbb7f4bd6c6325700000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Left_Pivot.uasset",
-			"ChunkId": "4dda218abda4832a00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/Functions/CA_Mannequin_new.uasset",
-			"ChunkId": "a4f0502eda4f06d300000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_UE_Logo_V2.uasset",
-			"ChunkId": "106803d0bc1342e400000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Effects/Textures/General/squares.uasset",
-			"ChunkId": "e0c3f7414263889600000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Effects/Textures/General/squares.ubulk",
-			"ChunkId": "e0c3f7414263889600000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Weapons/Generic/Textures/T_Weapon_N.uasset",
-			"ChunkId": "5e6752c7a5925f1b00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1.uasset",
-			"ChunkId": "f74ad23ec14b308a00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1.ubulk",
-			"ChunkId": "f74ad23ec14b308a00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2.uasset",
-			"ChunkId": "9d0750ee0032bdae00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2.ubulk",
-			"ChunkId": "9d0750ee0032bdae00000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk",
+			"ChunkId": "021da6225c7f517f00000002"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset",
@@ -1725,52 +1601,44 @@
 			"ChunkId": "1380a38fb2d9d09b00000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset",
-			"ChunkId": "ccfbf6fb8c94d52600000001"
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.uasset",
+			"ChunkId": "4914979a467faeff00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk",
-			"ChunkId": "ccfbf6fb8c94d52600000002"
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.ubulk",
+			"ChunkId": "4914979a467faeff00000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
-			"ChunkId": "2feae67d1f28277b00000001"
+			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Mesh/SK_Pistol.uasset",
+			"ChunkId": "28d805865808282500000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk",
-			"ChunkId": "2feae67d1f28277b00000002"
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset",
+			"ChunkId": "4a3ad9751c585a8100000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset",
-			"ChunkId": "e28775e15c9fefaa00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RU.uasset",
+			"ChunkId": "6f79f85373eacb8800000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk",
-			"ChunkId": "e28775e15c9fefaa00000002"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBU.uasset",
+			"ChunkId": "fb7f355e1e99c9a600000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset",
-			"ChunkId": "c42798d4b7d7893a00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RD.uasset",
+			"ChunkId": "60bc33e667e8729f00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk",
-			"ChunkId": "c42798d4b7d7893a00000002"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBD.uasset",
+			"ChunkId": "d12c0f33a5af231100000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
-			"ChunkId": "db28b8396928adf000000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset",
+			"ChunkId": "1b6c8e2dd045aecf00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk",
-			"ChunkId": "db28b8396928adf000000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset",
-			"ChunkId": "9936bd915052cb2200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk",
-			"ChunkId": "9936bd915052cb2200000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk",
+			"ChunkId": "1b6c8e2dd045aecf00000002"
 		},
 		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset",
@@ -1789,30 +1657,6 @@
 			"ChunkId": "1d747f2667a6cc3e00000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset",
-			"ChunkId": "d1e559d0e2302cd200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk",
-			"ChunkId": "d1e559d0e2302cd200000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset",
-			"ChunkId": "41772863b6990e2300000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk",
-			"ChunkId": "41772863b6990e2300000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset",
-			"ChunkId": "88eaefb43659df9600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk",
-			"ChunkId": "88eaefb43659df9600000002"
-		},
-		{
 			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset",
 			"ChunkId": "5f0bb60d5aa9cbe000000001"
 		},
@@ -1821,244 +1665,32 @@
 			"ChunkId": "5f0bb60d5aa9cbe000000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset",
-			"ChunkId": "a91d103488503cd200000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset",
+			"ChunkId": "d1e559d0e2302cd200000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk",
-			"ChunkId": "a91d103488503cd200000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk",
+			"ChunkId": "d1e559d0e2302cd200000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset",
-			"ChunkId": "b971d0721fc7bec800000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset",
+			"ChunkId": "ccfbf6fb8c94d52600000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk",
-			"ChunkId": "b971d0721fc7bec800000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk",
+			"ChunkId": "ccfbf6fb8c94d52600000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset",
-			"ChunkId": "032dd1d44e4fc35000000001"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
+			"ChunkId": "2feae67d1f28277b00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk",
-			"ChunkId": "032dd1d44e4fc35000000002"
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk",
+			"ChunkId": "2feae67d1f28277b00000002"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset",
-			"ChunkId": "26708189dce06d9c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk",
-			"ChunkId": "26708189dce06d9c00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
-			"ChunkId": "b0e6f22a1229f33400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk",
-			"ChunkId": "b0e6f22a1229f33400000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset",
-			"ChunkId": "b6ecf8eaf9e325c400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk",
-			"ChunkId": "b6ecf8eaf9e325c400000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset",
-			"ChunkId": "1d2105a53b99f8b400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk",
-			"ChunkId": "1d2105a53b99f8b400000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
-			"ChunkId": "0bd00fa41afbdaed00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk",
-			"ChunkId": "0bd00fa41afbdaed00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
-			"ChunkId": "4bf1e0df3070bca100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk",
-			"ChunkId": "4bf1e0df3070bca100000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset",
-			"ChunkId": "c37eb6c5460e3abb00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk",
-			"ChunkId": "c37eb6c5460e3abb00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset",
-			"ChunkId": "34f8d388913445db00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk",
-			"ChunkId": "34f8d388913445db00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset",
-			"ChunkId": "d623d5bc8818ccbe00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk",
-			"ChunkId": "d623d5bc8818ccbe00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset",
-			"ChunkId": "42cab4d3ee68987100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk",
-			"ChunkId": "42cab4d3ee68987100000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset",
-			"ChunkId": "dbdfc4bccd3d616d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk",
-			"ChunkId": "dbdfc4bccd3d616d00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset",
-			"ChunkId": "29ff7e5dd78cdef100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk",
-			"ChunkId": "29ff7e5dd78cdef100000002"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset",
-			"ChunkId": "a9e8edb09171185f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk",
-			"ChunkId": "a9e8edb09171185f00000002"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/SM_SkySphere.uasset",
-			"ChunkId": "48df828be219f7ad00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSky/SM_SkySphere.ubulk",
-			"ChunkId": "48df828be219f7ad00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBU.uasset",
-			"ChunkId": "fb7f355e1e99c9a600000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RC.uasset",
-			"ChunkId": "96ad06d0a3f20b4c00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RD.uasset",
-			"ChunkId": "60bc33e667e8729f00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RU.uasset",
-			"ChunkId": "6f79f85373eacb8800000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
-			"ChunkId": "0e6a0028be3a2a6c00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
-			"ChunkId": "2925796cddcc148c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset",
-			"ChunkId": "d918e06ff9ea46e100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset",
-			"ChunkId": "6e11d15e7c810c8200000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_AORM.uasset",
-			"ChunkId": "35b55f660671f57a00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_AORM.ubulk",
-			"ChunkId": "35b55f660671f57a00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3.uasset",
-			"ChunkId": "7b2d45359e0fa5d400000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3.ubulk",
-			"ChunkId": "7b2d45359e0fa5d400000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.uasset",
-			"ChunkId": "fd75c537069a7dd000000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.ubulk",
-			"ChunkId": "fd75c537069a7dd000000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N.uasset",
-			"ChunkId": "f63e131d940b139d00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N.ubulk",
-			"ChunkId": "f63e131d940b139d00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset",
-			"ChunkId": "4a3ad9751c585a8100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uasset",
-			"ChunkId": "939a0b8c0358052300000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uasset",
-			"ChunkId": "d4fd3bb0dcf0028200000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uasset",
-			"ChunkId": "123405530a03c77100000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset",
-			"ChunkId": "9976270f2cfbf30600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset",
-			"ChunkId": "7d054fc33a3fce1b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset",
-			"ChunkId": "b320bc84dd8973e000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset",
-			"ChunkId": "7b77ddbf8026972c00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBC.uasset",
-			"ChunkId": "3241fad12083ed7c00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBD.uasset",
-			"ChunkId": "d12c0f33a5af231100000001"
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+			"ChunkId": "801dc51816054cd400000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/M_Mannequin.uasset",
@@ -2105,6 +1737,206 @@
 			"ChunkId": "a2887f69bec4c1f100000001"
 		},
 		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset",
+			"ChunkId": "e28775e15c9fefaa00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk",
+			"ChunkId": "e28775e15c9fefaa00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset",
+			"ChunkId": "c42798d4b7d7893a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk",
+			"ChunkId": "c42798d4b7d7893a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
+			"ChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk",
+			"ChunkId": "db28b8396928adf000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset",
+			"ChunkId": "9936bd915052cb2200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk",
+			"ChunkId": "9936bd915052cb2200000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RC.uasset",
+			"ChunkId": "96ad06d0a3f20b4c00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LU.uasset",
+			"ChunkId": "25ad3733bed5e1d800000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBC.uasset",
+			"ChunkId": "3241fad12083ed7c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset",
+			"ChunkId": "88eaefb43659df9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk",
+			"ChunkId": "88eaefb43659df9600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
+			"ChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk",
+			"ChunkId": "b0e6f22a1229f33400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset",
+			"ChunkId": "b6ecf8eaf9e325c400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk",
+			"ChunkId": "b6ecf8eaf9e325c400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
+			"ChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk",
+			"ChunkId": "0bd00fa41afbdaed00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset",
+			"ChunkId": "a91d103488503cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk",
+			"ChunkId": "a91d103488503cd200000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset",
+			"ChunkId": "b971d0721fc7bec800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk",
+			"ChunkId": "b971d0721fc7bec800000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset",
+			"ChunkId": "032dd1d44e4fc35000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk",
+			"ChunkId": "032dd1d44e4fc35000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset",
+			"ChunkId": "26708189dce06d9c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk",
+			"ChunkId": "26708189dce06d9c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset",
+			"ChunkId": "41772863b6990e2300000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk",
+			"ChunkId": "41772863b6990e2300000002"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uasset",
+			"ChunkId": "939a0b8c0358052300000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uasset",
+			"ChunkId": "d4fd3bb0dcf0028200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uasset",
+			"ChunkId": "123405530a03c77100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset",
+			"ChunkId": "1d2105a53b99f8b400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk",
+			"ChunkId": "1d2105a53b99f8b400000002"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset",
+			"ChunkId": "b320bc84dd8973e000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset",
+			"ChunkId": "c37eb6c5460e3abb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk",
+			"ChunkId": "c37eb6c5460e3abb00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uasset",
+			"ChunkId": "119b3e4cfa98fb2a00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_01_Blue.uasset",
+			"ChunkId": "1f1fce0cf647894500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset",
+			"ChunkId": "34f8d388913445db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk",
+			"ChunkId": "34f8d388913445db00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset",
+			"ChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_02_Blue.uasset",
+			"ChunkId": "f7d1f0d7fc98d5a200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset",
+			"ChunkId": "f649501136fe389200000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Maps/Map_01.umap",
+			"ChunkId": "812c0abcb3635eca00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset",
+			"ChunkId": "a3739079b5cbf53d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset",
+			"ChunkId": "9976270f2cfbf30600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset",
+			"ChunkId": "7d054fc33a3fce1b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset",
+			"ChunkId": "3af1a6ee62b1c44f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset",
+			"ChunkId": "7b77ddbf8026972c00000001"
+		},
+		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset",
 			"ChunkId": "88ff872ce265b5b800000001"
 		},
@@ -2145,24 +1977,196 @@
 			"ChunkId": "1c5d8f98c639f24000000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset",
-			"ChunkId": "a3739079b5cbf53d00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBU.uasset",
+			"ChunkId": "fe0db693c80e18d300000001"
 		},
 		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uasset",
-			"ChunkId": "119b3e4cfa98fb2a00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LC.uasset",
+			"ChunkId": "6584dccd6c68f30f00000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Maps/Map_01.umap",
-			"ChunkId": "812c0abcb3635eca00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LD.uasset",
+			"ChunkId": "f6f48d85a85b477000000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_01_Blue.uasset",
-			"ChunkId": "1f1fce0cf647894500000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CU.uasset",
+			"ChunkId": "7f6f220cf5bb829300000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_02_Blue.uasset",
-			"ChunkId": "f7d1f0d7fc98d5a200000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBC.uasset",
+			"ChunkId": "37a90bdcc8e840c000000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBD.uasset",
+			"ChunkId": "83105ba05cbfa63100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset",
+			"ChunkId": "d623d5bc8818ccbe00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk",
+			"ChunkId": "d623d5bc8818ccbe00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset",
+			"ChunkId": "42cab4d3ee68987100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk",
+			"ChunkId": "42cab4d3ee68987100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/SM_SkySphere.uasset",
+			"ChunkId": "48df828be219f7ad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/SM_SkySphere.ubulk",
+			"ChunkId": "48df828be219f7ad00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset",
+			"ChunkId": "dbdfc4bccd3d616d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk",
+			"ChunkId": "dbdfc4bccd3d616d00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset",
+			"ChunkId": "29ff7e5dd78cdef100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk",
+			"ChunkId": "29ff7e5dd78cdef100000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset",
+			"ChunkId": "a9e8edb09171185f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk",
+			"ChunkId": "a9e8edb09171185f00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
+			"ChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk",
+			"ChunkId": "1b32f3f341cb246000000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset",
+			"ChunkId": "6ff734fd30628e8c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk",
+			"ChunkId": "6ff734fd30628e8c00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
+			"ChunkId": "4bf1e0df3070bca100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk",
+			"ChunkId": "4bf1e0df3070bca100000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Materials/Functions/CA_Mannequin_new.uasset",
+			"ChunkId": "a4f0502eda4f06d300000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3.uasset",
+			"ChunkId": "5549760037a9041200000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3.ubulk",
+			"ChunkId": "5549760037a9041200000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N.uasset",
+			"ChunkId": "3022338bce7cad6000000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N.ubulk",
+			"ChunkId": "3022338bce7cad6000000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Pistol_MuzzleFlashes_4x1_B.uasset",
+			"ChunkId": "46b3a701d3b046dd00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Pistol_MuzzleFlashes_4x1_B.ubulk",
+			"ChunkId": "46b3a701d3b046dd00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.uasset",
+			"ChunkId": "927b2fe4876a1f7400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk",
+			"ChunkId": "927b2fe4876a1f7400000002"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
+			"ChunkId": "bd472f8cbf5f723d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_Actor.ubulk",
+			"ChunkId": "bd472f8cbf5f723d00000002"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uasset",
+			"ChunkId": "dc070bff4266afee00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset",
+			"ChunkId": "d2053e0c288df1b900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset",
+			"ChunkId": "8b25d269c89d5cf200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset",
+			"ChunkId": "693d58be32694a0500000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset",
+			"ChunkId": "7bb138a69f4619a100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uasset",
+			"ChunkId": "662011f8ffe9952200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset",
+			"ChunkId": "1155c8084c57d82a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
+			"ChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
+			"ChunkId": "b60efe12572543e800000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.uasset",
@@ -2173,72 +2177,8 @@
 			"ChunkId": "cadc4d0ec817b83400000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D.uasset",
-			"ChunkId": "98bcad9eff20831d00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D.ubulk",
-			"ChunkId": "98bcad9eff20831d00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LD.uasset",
-			"ChunkId": "f6f48d85a85b477000000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LU.uasset",
-			"ChunkId": "25ad3733bed5e1d800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset",
-			"ChunkId": "3af1a6ee62b1c44f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset",
-			"ChunkId": "f649501136fe389200000001"
-		},
-		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset",
 			"ChunkId": "b059d54260cfd24100000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LC.uasset",
-			"ChunkId": "6584dccd6c68f30f00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK.uasset",
-			"ChunkId": "afedccbd192f0a6e00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK.ubulk",
-			"ChunkId": "afedccbd192f0a6e00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1.uasset",
-			"ChunkId": "3ecee3a65102694300000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1.ubulk",
-			"ChunkId": "3ecee3a65102694300000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2.uasset",
-			"ChunkId": "0859394a314afb5c00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2.ubulk",
-			"ChunkId": "0859394a314afb5c00000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3.uasset",
-			"ChunkId": "6d781382b19f817700000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3.ubulk",
-			"ChunkId": "6d781382b19f817700000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBU.uasset",
-			"ChunkId": "fe0db693c80e18d300000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset",
@@ -2251,6 +2191,14 @@
 		{
 			"Path": "FPS_multiplayer/Content/Widgets/WB_MainMenu.uasset",
 			"ChunkId": "2ae5e12cfbdcf9d400000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Widgets/WB_MPMenu.uasset",
+			"ChunkId": "d3c43a39b11ca4a900000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Widgets/WB_serverrow.uasset",
+			"ChunkId": "adc2ffb8ae71dc3900000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Maps/Menu/MainMenumap.umap",
@@ -2269,28 +2217,116 @@
 			"ChunkId": "7adbf50dd976606900000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBC.uasset",
-			"ChunkId": "37a90bdcc8e840c000000001"
+			"Path": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset",
+			"ChunkId": "b1dd9666d4d25cf600000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBD.uasset",
-			"ChunkId": "83105ba05cbfa63100000001"
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.uasset",
+			"ChunkId": "eb26c788a1a10ea100000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N.uasset",
-			"ChunkId": "c7cc2086eda77c4e00000001"
+			"Path": "Engine/Content/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.ubulk",
+			"ChunkId": "eb26c788a1a10ea100000002"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N.ubulk",
-			"ChunkId": "c7cc2086eda77c4e00000002"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D.uasset",
+			"ChunkId": "19dbe87fbbbbadf300000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Pistol_MuzzleFlashes_4x1_B.uasset",
-			"ChunkId": "46b3a701d3b046dd00000001"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D.ubulk",
+			"ChunkId": "19dbe87fbbbbadf300000002"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Pistol_MuzzleFlashes_4x1_B.ubulk",
-			"ChunkId": "46b3a701d3b046dd00000002"
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK.uasset",
+			"ChunkId": "9b537d01fc22bcae00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK.ubulk",
+			"ChunkId": "9b537d01fc22bcae00000002"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
+			"ChunkId": "cb90c94586b3228900000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1.uasset",
+			"ChunkId": "f74ad23ec14b308a00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1.ubulk",
+			"ChunkId": "f74ad23ec14b308a00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2.uasset",
+			"ChunkId": "9d0750ee0032bdae00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2.ubulk",
+			"ChunkId": "9d0750ee0032bdae00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3.uasset",
+			"ChunkId": "7b2d45359e0fa5d400000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3.ubulk",
+			"ChunkId": "7b2d45359e0fa5d400000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N.uasset",
+			"ChunkId": "f63e131d940b139d00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N.ubulk",
+			"ChunkId": "f63e131d940b139d00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.uasset",
+			"ChunkId": "fd75c537069a7dd000000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.ubulk",
+			"ChunkId": "fd75c537069a7dd000000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D.uasset",
+			"ChunkId": "98bcad9eff20831d00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D.ubulk",
+			"ChunkId": "98bcad9eff20831d00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_AORM.uasset",
+			"ChunkId": "35b55f660671f57a00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_AORM.ubulk",
+			"ChunkId": "35b55f660671f57a00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK.uasset",
+			"ChunkId": "afedccbd192f0a6e00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK.ubulk",
+			"ChunkId": "afedccbd192f0a6e00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2.uasset",
+			"ChunkId": "0859394a314afb5c00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2.ubulk",
+			"ChunkId": "0859394a314afb5c00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3.uasset",
+			"ChunkId": "6d781382b19f817700000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3.ubulk",
+			"ChunkId": "6d781382b19f817700000002"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_FL_Detail_01.uasset",
@@ -2317,24 +2353,20 @@
 			"ChunkId": "65401561b6cd47a600000002"
 		},
 		{
-			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
-			"ChunkId": "cb90c94586b3228900000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CD.uasset",
-			"ChunkId": "1b72e1c9e5d9364000000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CU.uasset",
-			"ChunkId": "7f6f220cf5bb829300000001"
-		},
-		{
 			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Spherical_NormalMap_01.uasset",
 			"ChunkId": "6c90eb3e4deca1dd00000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Spherical_NormalMap_01.ubulk",
 			"ChunkId": "6c90eb3e4deca1dd00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Smoke_8x8_B_01.uasset",
+			"ChunkId": "6592c0ac8334555a00000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Smoke_8x8_B_01.ubulk",
+			"ChunkId": "6592c0ac8334555a00000002"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_D.uasset",
@@ -2353,40 +2385,12 @@
 			"ChunkId": "211285650c0054a500000002"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Smoke_8x8_B_01.uasset",
-			"ChunkId": "6592c0ac8334555a00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/Textures/T_Smoke_8x8_B_01.ubulk",
-			"ChunkId": "6592c0ac8334555a00000002"
-		},
-		{
 			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_N.uasset",
 			"ChunkId": "c4f40fc46d2698d600000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Weapons/Pistol/Textures/T_Pistol_N.ubulk",
 			"ChunkId": "c4f40fc46d2698d600000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CC.uasset",
-			"ChunkId": "2b28e7f3b19946b700000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Bwd.uasset",
-			"ChunkId": "32fe69a434750fb800000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Weapons/Generic/Textures/T_Weapon_Mask.uasset",
-			"ChunkId": "4ad85c1809adf80d00000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Left.uasset",
-			"ChunkId": "3aff7d0bd659dae400000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Right.uasset",
-			"ChunkId": "0b095a9b218a41d300000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_D.uasset",
@@ -2429,32 +2433,12 @@
 			"ChunkId": "fc60fb4d5419053100000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Bwd.uasset",
-			"ChunkId": "231403520a9768d000000001"
+			"Path": "FPS_multiplayer/Content/Weapons/Generic/Textures/T_Weapon_Mask.uasset",
+			"ChunkId": "4ad85c1809adf80d00000001"
 		},
 		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Fwd.uasset",
-			"ChunkId": "e2ccb6b14ca411f700000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/P_Pistol_MuzzleFlash_01.uasset",
-			"ChunkId": "6ae3ff249214a3d800000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3.uasset",
-			"ChunkId": "5549760037a9041200000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3.ubulk",
-			"ChunkId": "5549760037a9041200000002"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N.uasset",
-			"ChunkId": "3022338bce7cad6000000001"
-		},
-		{
-			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N.ubulk",
-			"ChunkId": "3022338bce7cad6000000002"
+			"Path": "FPS_multiplayer/Content/Weapons/Generic/Textures/T_Weapon_N.uasset",
+			"ChunkId": "5e6752c7a5925f1b00000001"
 		},
 		{
 			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_OrangePeel_N.uasset",
@@ -2463,15 +2447,33 @@
 		{
 			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_OrangePeel_N.ubulk",
 			"ChunkId": "7a9b4c5ce17227eb00000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Effects/Textures/General/squares.uasset",
+			"ChunkId": "e0c3f7414263889600000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Effects/Textures/General/squares.ubulk",
+			"ChunkId": "e0c3f7414263889600000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/MilitaryWeapSilver/FX/P_Pistol_MuzzleFlash_01.uasset",
+			"ChunkId": "6ae3ff249214a3d800000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1.uasset",
+			"ChunkId": "3ecee3a65102694300000001"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1.ubulk",
+			"ChunkId": "3ecee3a65102694300000002"
+		},
+		{
+			"Path": "FPS_multiplayer/Content/Characters/Heroes/Mannequin/Textures/Shared/T_UE_Logo_V2.uasset",
+			"ChunkId": "106803d0bc1342e400000001"
 		}
 	],
 	"Packages": [
-		{
-			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
-			"ExportBundleChunkIds": [
-				"90442f10ca8d9eb700000001"
-			]
-		},
 		{
 			"Name": "/Interchange/Pipelines/DefaultSceneLevelPipeline",
 			"ExportBundleChunkIds": [
@@ -2509,9 +2511,9 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineDebugMaterials/DebugEditorMaterial",
+			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
 			"ExportBundleChunkIds": [
-				"7045cf1b55a1317500000001"
+				"90442f10ca8d9eb700000001"
 			]
 		},
 		{
@@ -2530,12 +2532,6 @@
 			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer"
 		},
 		{
-			"Name": "/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor",
-			"ExportBundleChunkIds": [
-				"f1ebd6418dba317a00000001"
-			]
-		},
-		{
 			"Name": "/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial",
 			"ExportBundleChunkIds": [
 				"f324387808549ca400000001"
@@ -2545,18 +2541,6 @@
 			"Name": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
 			"ExportBundleChunkIds": [
 				"86f514aa5cdc08e700000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
-			"ExportBundleChunkIds": [
-				"d9ef76f15dcbda9d00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"f0a7f83421ac425b00000001"
 			]
 		},
 		{
@@ -2632,12 +2616,6 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRigXRayMaterial",
-			"ExportBundleChunkIds": [
-				"6ca66bbcba09d42900000001"
-			]
-		},
-		{
 			"Name": "/Engine/Animation/DefaultAnimCurveCompressionSettings",
 			"ExportBundleChunkIds": [
 				"fd3456639b15286700000001"
@@ -2689,228 +2667,6 @@
 			]
 		},
 		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
-			"ExportBundleChunkIds": [
-				"27d3dbbd9cb5875a00000001"
-			],
-			"BulkDataChunkIds": [
-				"27d3dbbd9cb5875a00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
-			"ExportBundleChunkIds": [
-				"8500a33b2fedbab800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
-			"ExportBundleChunkIds": [
-				"b60efe12572543e800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultBokeh",
-			"ExportBundleChunkIds": [
-				"65401b411493477b00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000",
-			"ExportBundleChunkIds": [
-				"ad84bf334b97e1af00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultBloomKernel",
-			"ExportBundleChunkIds": [
-				"cbab6b01dd8b7ffe00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/BSPVertex",
-			"ExportBundleChunkIds": [
-				"9784ada5ce57b7cb00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PhAT_NoCollisionMaterial",
-			"ExportBundleChunkIds": [
-				"ea0f5dd142fa12ab00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PhAT_UnselectedMaterial",
-			"ExportBundleChunkIds": [
-				"b61e99bc8320e42b00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/SequenceRecorder/RecordingIndicator",
-			"ExportBundleChunkIds": [
-				"9c7151fedab8d7e200000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/STBlueNoise_vec2_128x128x64",
-			"ExportBundleChunkIds": [
-				"ecd9b30185efcf5800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/STBlueNoise_scalar_128x128x64",
-			"ExportBundleChunkIds": [
-				"20fa3a2484d4c32600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/SequenceRecorder/Countdown",
-			"ExportBundleChunkIds": [
-				"fd5c4b2d837478ae00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_Terrain",
-			"ExportBundleChunkIds": [
-				"5cea311860b94ecb00000001"
-			],
-			"BulkDataChunkIds": [
-				"5cea311860b94ecb00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorLandscapeResources/DefaultAlphaTexture",
-			"ExportBundleChunkIds": [
-				"8b12fc0ce026f5be00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid",
-			"ExportBundleChunkIds": [
-				"624f937426db20c500000001"
-			],
-			"BulkDataChunkIds": [
-				"624f937426db20c500000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
-			"ExportBundleChunkIds": [
-				"4077f21c1acd58d500000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/MiniFont",
-			"ExportBundleChunkIds": [
-				"58ac407f95ae164b00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
-			"ExportBundleChunkIds": [
-				"1c3a80931d7381bf00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT",
-			"ExportBundleChunkIds": [
-				"4eefe050ec0582d800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap_VT",
-			"ExportBundleChunkIds": [
-				"28ed83b8029dd22900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor_VT",
-			"ExportBundleChunkIds": [
-				"c599b991259f3dc100000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT",
-			"ExportBundleChunkIds": [
-				"0219c3161c6d6eb200000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT",
-			"ExportBundleChunkIds": [
-				"d77ca907bf9be46e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT",
-			"ExportBundleChunkIds": [
-				"adba4404ca6448ad00000001"
-			]
-		},
-		{
-			"Name": "/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture",
-			"ExportBundleChunkIds": [
-				"b60fa590a5fe4d6f00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap",
-			"ExportBundleChunkIds": [
-				"c18dd883a0c55c8b00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor",
-			"ExportBundleChunkIds": [
-				"768633666781f70600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap",
-			"ExportBundleChunkIds": [
-				"2563b8e7aff6d26e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap",
-			"ExportBundleChunkIds": [
-				"7ba7b2b1aeafb4cc00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap",
-			"ExportBundleChunkIds": [
-				"641c8321450e97f400000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/GizmoMaterial",
-			"ExportBundleChunkIds": [
-				"4f766dcdfcc10abc00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/InvalidLightmapSettings",
-			"ExportBundleChunkIds": [
-				"cdb6f2e8065df7c100000001"
-			],
-			"BulkDataChunkIds": [
-				"cdb6f2e8065df7c100000002"
-			]
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
-			"ExportBundleChunkIds": [
-				"6f3a7c0fe1cf64ce00000001"
-			]
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
-			"ExportBundleChunkIds": [
-				"efd3b99beb745ea100000001"
-			]
-		},
-		{
 			"Name": "/Engine/EngineFonts/Faces/RobotoItalic",
 			"ExportBundleChunkIds": [
 				"6ef7eb5c150af73a00000001"
@@ -2932,12 +2688,6 @@
 			"Name": "/Engine/EngineFonts/Faces/DroidSansFallback",
 			"ExportBundleChunkIds": [
 				"a9e44eb998f07d0800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
-			"ExportBundleChunkIds": [
-				"a06a91154845992200000001"
 			]
 		},
 		{
@@ -3004,49 +2754,19 @@
 			]
 		},
 		{
+			"Name": "/Engine/EngineMaterials/STBlueNoise_vec2_128x128x64",
+			"ExportBundleChunkIds": [
+				"ecd9b30185efcf5800000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/STBlueNoise_scalar_128x128x64",
+			"ExportBundleChunkIds": [
+				"20fa3a2484d4c32600000001"
+			]
+		},
+		{
 			"Name": "/Interchange/Pipelines/DefaultGraphInspectorPipeline"
-		},
-		{
-			"Name": "/Interchange/Materials/UnlitMaterial",
-			"ExportBundleChunkIds": [
-				"1e8860c1da3e1ade00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
-			"ExportBundleChunkIds": [
-				"0125e0852ce3d3e700000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorLandscapeResources/SplineEditorMeshMat",
-			"ExportBundleChunkIds": [
-				"6229e1c5b978089900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/Camera/CineMat",
-			"ExportBundleChunkIds": [
-				"a60f7c53ca2e732e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/Xray",
-			"ExportBundleChunkIds": [
-				"b0afffa81f17b5cc00000001"
-			]
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/Main",
-			"ExportBundleChunkIds": [
-				"36f9c4a1a41147a000000001"
-			]
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
-			"ExportBundleChunkIds": [
-				"f267c7830989284200000001"
-			]
 		},
 		{
 			"Name": "/Interchange/Materials/MapOrScalarFunction",
@@ -3157,12 +2877,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSky/M_SimpleSkyDome",
-			"ExportBundleChunkIds": [
-				"e61c20398c40eda200000001"
-			]
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal",
 			"ExportBundleChunkIds": [
 				"3b047fdea50e991600000001"
@@ -3184,6 +2898,30 @@
 			"Name": "/Game/Maps/Menu/MainMenumap_BuiltData",
 			"ExportBundleChunkIds": [
 				"a6beeaba8a9ef00700000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/SequenceRecorder/Countdown",
+			"ExportBundleChunkIds": [
+				"fd5c4b2d837478ae00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000",
+			"ExportBundleChunkIds": [
+				"ad84bf334b97e1af00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBloomKernel",
+			"ExportBundleChunkIds": [
+				"cbab6b01dd8b7ffe00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PhAT_NoCollisionMaterial",
+			"ExportBundleChunkIds": [
+				"ea0f5dd142fa12ab00000001"
 			]
 		},
 		{
@@ -3211,6 +2949,42 @@
 			]
 		},
 		{
+			"Name": "/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor",
+			"ExportBundleChunkIds": [
+				"f1ebd6418dba317a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/BSPVertex",
+			"ExportBundleChunkIds": [
+				"9784ada5ce57b7cb00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/SequenceRecorder/RecordingIndicator",
+			"ExportBundleChunkIds": [
+				"9c7151fedab8d7e200000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/DefaultAlphaTexture",
+			"ExportBundleChunkIds": [
+				"8b12fc0ce026f5be00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugEditorMaterial",
+			"ExportBundleChunkIds": [
+				"7045cf1b55a1317500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PhAT_UnselectedMaterial",
+			"ExportBundleChunkIds": [
+				"b61e99bc8320e42b00000001"
+			]
+		},
+		{
 			"Name": "/Game/Weapons/Pistol/Mesh/SK_Pistol_PhysicsAsset",
 			"ExportBundleChunkIds": [
 				"871d640b0e2b69df00000001"
@@ -3220,6 +2994,144 @@
 			"Name": "/Game/Weapons/Pistol/Mesh/SK_Pistol_Skeleton",
 			"ExportBundleChunkIds": [
 				"ccaa48145f1cc75a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/GradientTexture0",
+			"ExportBundleChunkIds": [
+				"f87a01e7b138538a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+			"ExportBundleChunkIds": [
+				"0125e0852ce3d3e700000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/Camera/CineMat",
+			"ExportBundleChunkIds": [
+				"a60f7c53ca2e732e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Xray",
+			"ExportBundleChunkIds": [
+				"b0afffa81f17b5cc00000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRigXRayMaterial",
+			"ExportBundleChunkIds": [
+				"6ca66bbcba09d42900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Terrain",
+			"ExportBundleChunkIds": [
+				"5cea311860b94ecb00000001"
+			],
+			"BulkDataChunkIds": [
+				"5cea311860b94ecb00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/GizmoMaterial",
+			"ExportBundleChunkIds": [
+				"4f766dcdfcc10abc00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+			"ExportBundleChunkIds": [
+				"d9ef76f15dcbda9d00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"f0a7f83421ac425b00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/SplineEditorMeshMat",
+			"ExportBundleChunkIds": [
+				"6229e1c5b978089900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+			"ExportBundleChunkIds": [
+				"a06a91154845992200000001"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/Main",
+			"ExportBundleChunkIds": [
+				"36f9c4a1a41147a000000001"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
+			"ExportBundleChunkIds": [
+				"f267c7830989284200000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerSphere",
+			"ExportBundleChunkIds": [
+				"67d4e8f2a83a1c4800000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerBox",
+			"ExportBundleChunkIds": [
+				"8953c1244c740aad00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/M_SimpleSkyDome",
+			"ExportBundleChunkIds": [
+				"e61c20398c40eda200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/UnlitMaterial",
+			"ExportBundleChunkIds": [
+				"1e8860c1da3e1ade00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineFonts/RobotoDistanceField",
+			"ExportBundleChunkIds": [
+				"52a5c49a743a12b500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid",
+			"ExportBundleChunkIds": [
+				"624f937426db20c500000001"
+			],
+			"BulkDataChunkIds": [
+				"624f937426db20c500000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
+			"ExportBundleChunkIds": [
+				"4077f21c1acd58d500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/MiniFont",
+			"ExportBundleChunkIds": [
+				"58ac407f95ae164b00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+			"ExportBundleChunkIds": [
+				"1c3a80931d7381bf00000001"
 			]
 		},
 		{
@@ -3265,18 +3177,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
-			"ExportBundleChunkIds": [
-				"da9ef9387e6c513600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
-			"ExportBundleChunkIds": [
-				"6ebbe4a6ced841cc00000001"
-			]
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
 			"ExportBundleChunkIds": [
 				"4762b775bfe4b22d00000001"
@@ -3298,42 +3198,6 @@
 			"Name": "/Paper2D/DummySprite",
 			"ExportBundleChunkIds": [
 				"7936cc24a0df034100000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
-			"ExportBundleChunkIds": [
-				"f38cb73e67825d9600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlattenMaterial",
-			"ExportBundleChunkIds": [
-				"2acd952336aab07f00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
-			"ExportBundleChunkIds": [
-				"3c018da41573213600000001"
-			]
-		},
-		{
-			"Name": "/Paper2D/DefaultSpriteMaterial",
-			"ExportBundleChunkIds": [
-				"12c2c1346a8453a600000001"
-			]
-		},
-		{
-			"Name": "/ControlRig/M_Manip",
-			"ExportBundleChunkIds": [
-				"9a5a67fa3c2b2de900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
-			"ExportBundleChunkIds": [
-				"3bf2df25e14476d700000001"
 			]
 		},
 		{
@@ -3373,9 +3237,15 @@
 			]
 		},
 		{
-			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
+			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
 			"ExportBundleChunkIds": [
-				"6fab96d8842b418000000001"
+				"ff5a26a059754af200000001"
+			]
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"ExportBundleChunkIds": [
+				"c472a8877b0ae2f900000001"
 			]
 		},
 		{
@@ -3385,57 +3255,9 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
-			"ExportBundleChunkIds": [
-				"27d7aeddb1b7c7fc00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
-			"ExportBundleChunkIds": [
-				"497b4263fbd333c800000001"
-			]
-		},
-		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter",
 			"ExportBundleChunkIds": [
 				"e786ac693542bdc000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
-			"ExportBundleChunkIds": [
-				"6c3a98c4aa151a5300000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
-			"ExportBundleChunkIds": [
-				"305a1ec18dd5a4be00000001"
-			]
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
-			"ExportBundleChunkIds": [
-				"51f4a9204ba994c500000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
-			"ExportBundleChunkIds": [
-				"ef400c1f3fd91f2a00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultMaterial",
-			"ExportBundleChunkIds": [
-				"b4d3126ba7954ec000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
-			"ExportBundleChunkIds": [
-				"eeb296b2a739309500000001"
 			]
 		},
 		{
@@ -3454,6 +3276,57 @@
 			"Name": "/Engine/EditorBlueprintResources/ActorMacros",
 			"ExportBundleChunkIds": [
 				"24c197abc18b320300000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"ExportBundleChunkIds": [
+				"f38cb73e67825d9600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"ExportBundleChunkIds": [
+				"2acd952336aab07f00000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire01",
+			"ExportBundleChunkIds": [
+				"c3856b5096b2f48b00000001"
+			],
+			"BulkDataChunkIds": [
+				"c3856b5096b2f48b00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerCapsule",
+			"ExportBundleChunkIds": [
+				"a8fda97722bfb0e600000001"
+			]
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"ExportBundleChunkIds": [
+				"2a8ace463a029fae00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"ExportBundleChunkIds": [
+				"da9ef9387e6c513600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"ExportBundleChunkIds": [
+				"3c018da41573213600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"ExportBundleChunkIds": [
+				"6ebbe4a6ced841cc00000001"
 			]
 		},
 		{
@@ -3487,36 +3360,6 @@
 			]
 		},
 		{
-			"Name": "/Interchange/Materials/PhongSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"87099a79bdf858fb00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
-			"ExportBundleChunkIds": [
-				"e3ad05e4a2d7a17c00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
-			"ExportBundleChunkIds": [
-				"14c0e68102482a4700000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
-			"ExportBundleChunkIds": [
-				"a4739b1d475b4a3e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
-			"ExportBundleChunkIds": [
-				"fabb39727be145c100000001"
-			]
-		},
-		{
 			"Name": "/Interchange/Functions/MF_Iridescence",
 			"ExportBundleChunkIds": [
 				"5eb980ed43420e6a00000001"
@@ -3526,6 +3369,93 @@
 			"Name": "/Game/FrameWork/BP_shooterMenu_Gamemode",
 			"ExportBundleChunkIds": [
 				"888c96402262d3cf00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"ExportBundleChunkIds": [
+				"3bf2df25e14476d700000001"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
+			"ExportBundleChunkIds": [
+				"51f4a9204ba994c500000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire02",
+			"ExportBundleChunkIds": [
+				"639174cb9fe010fa00000001"
+			],
+			"BulkDataChunkIds": [
+				"639174cb9fe010fa00000002"
+			]
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"12c2c1346a8453a600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"ExportBundleChunkIds": [
+				"305a1ec18dd5a4be00000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"ExportBundleChunkIds": [
+				"9a5a67fa3c2b2de900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
+			"ExportBundleChunkIds": [
+				"6fab96d8842b418000000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
+			"ExportBundleChunkIds": [
+				"27d7aeddb1b7c7fc00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"ExportBundleChunkIds": [
+				"497b4263fbd333c800000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MM_Pistol_Idle_ADS",
+			"ExportBundleChunkIds": [
+				"c155e784e30af86300000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Idle_Ready",
+			"ExportBundleChunkIds": [
+				"aaf36d04f83221e300000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Left_Pivot",
+			"ExportBundleChunkIds": [
+				"4dda218abda4832a00000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Right",
+			"ExportBundleChunkIds": [
+				"876fd0b3b7679a9700000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MF_Pistol_Idle_ADS",
+			"ExportBundleChunkIds": [
+				"fda317a7c6e7bb5200000001"
 			]
 		},
 		{
@@ -3550,12 +3480,6 @@
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Fresnel"
 		},
 		{
-			"Name": "/Game/Weapons/Generic/Materials/M_Weapon",
-			"ExportBundleChunkIds": [
-				"0ecd7a3d4a7cace900000001"
-			]
-		},
-		{
 			"Name": "/Interchange/gltf/MaterialFunctions/MF_TransmissionOpacity",
 			"ExportBundleChunkIds": [
 				"76c2c1a280163bbe00000001"
@@ -3568,9 +3492,498 @@
 			]
 		},
 		{
-			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Bwd",
 			"ExportBundleChunkIds": [
-				"b2e758c7adce0aa000000001"
+				"32fe69a434750fb800000001"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+			"ExportBundleChunkIds": [
+				"fabb39727be145c100000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST01",
+			"ExportBundleChunkIds": [
+				"ce66927f21ed92d500000001"
+			],
+			"BulkDataChunkIds": [
+				"ce66927f21ed92d500000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST02",
+			"ExportBundleChunkIds": [
+				"bc62f55bdb8e4c9a00000001"
+			],
+			"BulkDataChunkIds": [
+				"bc62f55bdb8e4c9a00000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST03",
+			"ExportBundleChunkIds": [
+				"75cf055d50ffbad400000001"
+			],
+			"BulkDataChunkIds": [
+				"75cf055d50ffbad400000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST04",
+			"ExportBundleChunkIds": [
+				"f746c008cd6dd2a100000001"
+			],
+			"BulkDataChunkIds": [
+				"f746c008cd6dd2a100000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST05",
+			"ExportBundleChunkIds": [
+				"ef577339ac3f8a3100000001"
+			],
+			"BulkDataChunkIds": [
+				"ef577339ac3f8a3100000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST06",
+			"ExportBundleChunkIds": [
+				"a40bac8fe9edcc3e00000001"
+			],
+			"BulkDataChunkIds": [
+				"a40bac8fe9edcc3e00000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire05",
+			"ExportBundleChunkIds": [
+				"41ba570d5bc8e49200000001"
+			],
+			"BulkDataChunkIds": [
+				"41ba570d5bc8e49200000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire06",
+			"ExportBundleChunkIds": [
+				"f881296b2116f68900000001"
+			],
+			"BulkDataChunkIds": [
+				"f881296b2116f68900000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire03",
+			"ExportBundleChunkIds": [
+				"2cc1b4acbe24ea2400000001"
+			],
+			"BulkDataChunkIds": [
+				"2cc1b4acbe24ea2400000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire04",
+			"ExportBundleChunkIds": [
+				"6b031f6cf80188d000000001"
+			],
+			"BulkDataChunkIds": [
+				"6b031f6cf80188d000000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"ExportBundleChunkIds": [
+				"b85ee5fd59f4dd2000000001"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
+			"ExportBundleChunkIds": [
+				"efd3b99beb745ea100000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT",
+			"ExportBundleChunkIds": [
+				"d77ca907bf9be46e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT",
+			"ExportBundleChunkIds": [
+				"adba4404ca6448ad00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBokeh",
+			"ExportBundleChunkIds": [
+				"65401b411493477b00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap_VT",
+			"ExportBundleChunkIds": [
+				"28ed83b8029dd22900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor_VT",
+			"ExportBundleChunkIds": [
+				"c599b991259f3dc100000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT",
+			"ExportBundleChunkIds": [
+				"0219c3161c6d6eb200000001"
+			]
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture",
+			"ExportBundleChunkIds": [
+				"b60fa590a5fe4d6f00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap",
+			"ExportBundleChunkIds": [
+				"c18dd883a0c55c8b00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor",
+			"ExportBundleChunkIds": [
+				"768633666781f70600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap",
+			"ExportBundleChunkIds": [
+				"2563b8e7aff6d26e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap",
+			"ExportBundleChunkIds": [
+				"7ba7b2b1aeafb4cc00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/InvalidLightmapSettings",
+			"ExportBundleChunkIds": [
+				"cdb6f2e8065df7c100000001"
+			],
+			"BulkDataChunkIds": [
+				"cdb6f2e8065df7c100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
+			"ExportBundleChunkIds": [
+				"8500a33b2fedbab800000001"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
+			"ExportBundleChunkIds": [
+				"6f3a7c0fe1cf64ce00000001"
+			]
+		},
+		{
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
+			"ExportBundleChunkIds": [
+				"2cc5808063f890db00000001"
+			],
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
+			"ExportBundleChunkIds": [
+				"7f8259be57e87dce00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"ExportBundleChunkIds": [
+				"6c3a98c4aa151a5300000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"ExportBundleChunkIds": [
+				"ef400c1f3fd91f2a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"ExportBundleChunkIds": [
+				"b4d3126ba7954ec000000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
+			"ExportBundleChunkIds": [
+				"eeb296b2a739309500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"ExportBundleChunkIds": [
+				"e3ad05e4a2d7a17c00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
+			"ExportBundleChunkIds": [
+				"14c0e68102482a4700000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
+			"ExportBundleChunkIds": [
+				"a4739b1d475b4a3e00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Materials/PhongSurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"87099a79bdf858fb00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
+			"ExportBundleChunkIds": [
+				"6098725f85292e1b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Left",
+			"ExportBundleChunkIds": [
+				"3aff7d0bd659dae400000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Fwd",
+			"ExportBundleChunkIds": [
+				"9dbb7f4bd6c6325700000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_MuzzleFlash_4x1_A",
+			"ExportBundleChunkIds": [
+				"69057f947a29ba9100000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Smoke_2x2_A",
+			"ExportBundleChunkIds": [
+				"92b8f18329d56a8100000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Streaks_01",
+			"ExportBundleChunkIds": [
+				"ce6db9bca505ae8700000001"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Smoke_8x8_B_01",
+			"ExportBundleChunkIds": [
+				"9c6e4fbc613f7dfd00000001"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Generic/Materials/M_Weapon",
+			"ExportBundleChunkIds": [
+				"0ecd7a3d4a7cace900000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Right",
+			"ExportBundleChunkIds": [
+				"0b095a9b218a41d300000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/Black",
+			"ExportBundleChunkIds": [
+				"cda0cf6115260c9400000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
+			"ExportBundleChunkIds": [
+				"730711032edb546300000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseErosion",
+			"ExportBundleChunkIds": [
+				"92d47df83dccf7d800000001"
+			],
+			"BulkDataChunkIds": [
+				"92d47df83dccf7d800000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32",
+			"ExportBundleChunkIds": [
+				"e21a9990b0ff22d600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
+			"ExportBundleChunkIds": [
+				"e6291a81a77661e900000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture",
+			"ExportBundleChunkIds": [
+				"b3b465c34fc83f8e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudGradientTexture",
+			"ExportBundleChunkIds": [
+				"d28cf23bc747e18000000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap",
+			"ExportBundleChunkIds": [
+				"641c8321450e97f400000001"
+			]
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
+			"ExportBundleChunkIds": [
+				"27d3dbbd9cb5875a00000001"
+			],
+			"BulkDataChunkIds": [
+				"27d3dbbd9cb5875a00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
+			"ExportBundleChunkIds": [
+				"0bf1d6a9c47f8ccc00000001"
+			],
+			"BulkDataChunkIds": [
+				"0bf1d6a9c47f8ccc00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"ExportBundleChunkIds": [
+				"ba6543c81e92e56d00000001"
+			],
+			"BulkDataChunkIds": [
+				"ba6543c81e92e56d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
+			"ExportBundleChunkIds": [
+				"200cd3dc0f3f673a00000001"
+			],
+			"BulkDataChunkIds": [
+				"200cd3dc0f3f673a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Bwd",
+			"ExportBundleChunkIds": [
+				"231403520a9768d000000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Fwd",
+			"ExportBundleChunkIds": [
+				"e2ccb6b14ca411f700000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
+			"ExportBundleChunkIds": [
+				"34b40296d0d3844e00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
+			"ExportBundleChunkIds": [
+				"a996adcfa357ed2d00000001"
+			],
+			"BulkDataChunkIds": [
+				"a996adcfa357ed2d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Trigger",
+			"ExportBundleChunkIds": [
+				"9acae5549f0219b000000001"
+			],
+			"BulkDataChunkIds": [
+				"9acae5549f0219b000000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"ExportBundleChunkIds": [
+				"7a7173cfb4095b9f00000001"
+			],
+			"BulkDataChunkIds": [
+				"7a7173cfb4095b9f00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"ExportBundleChunkIds": [
+				"3e6f2bc6739d380300000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTexture",
+			"ExportBundleChunkIds": [
+				"6baf53cf79c0948b00000001"
+			],
+			"BulkDataChunkIds": [
+				"6baf53cf79c0948b00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorLandscapeResources/WhiteSquareTexture",
+			"ExportBundleChunkIds": [
+				"b5188ac73a55976200000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlatNormal",
+			"ExportBundleChunkIds": [
+				"2b69d7985d15bf2200000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
+			"ExportBundleChunkIds": [
+				"b743bdd5e5df72a400000001"
+			],
+			"BulkDataChunkIds": [
+				"b743bdd5e5df72a400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Solver",
+			"ExportBundleChunkIds": [
+				"5c918efb403d4bb200000001"
+			],
+			"BulkDataChunkIds": [
+				"5c918efb403d4bb200000002"
 			]
 		},
 		{
@@ -3667,6 +4080,39 @@
 			]
 		},
 		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"ExportBundleChunkIds": [
+				"7539f12095a3f0d100000001"
+			],
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Stars",
+			"ExportBundleChunkIds": [
+				"56d51199b9b2142a00000001"
+			],
+			"BulkDataChunkIds": [
+				"56d51199b9b2142a00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultNormal",
+			"ExportBundleChunkIds": [
+				"e790deb464e7a3d200000001"
+			],
+			"BulkDataChunkIds": [
+				"e790deb464e7a3d200000002"
+			]
+		},
+		{
+			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"ExportBundleChunkIds": [
+				"b2e758c7adce0aa000000001"
+			]
+		},
+		{
 			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst",
 			"ExportBundleChunkIds": [
 				"4b7bf926a5212df600000001"
@@ -3703,66 +4149,6 @@
 			],
 			"BulkDataChunkIds": [
 				"4a782f60fcb4c26e00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/M_Sky_Panning_Clouds2",
-			"ExportBundleChunkIds": [
-				"6098725f85292e1b00000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_MuzzleFlash_4x1_A",
-			"ExportBundleChunkIds": [
-				"69057f947a29ba9100000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Smoke_2x2_A",
-			"ExportBundleChunkIds": [
-				"92b8f18329d56a8100000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Pistol_Streaks_01",
-			"ExportBundleChunkIds": [
-				"ce6db9bca505ae8700000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_Smoke_8x8_B_01",
-			"ExportBundleChunkIds": [
-				"9c6e4fbc613f7dfd00000001"
-			]
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
-			"ExportBundleChunkIds": [
-				"0ec7598e2050155600000001"
-			]
-		},
-		{
-			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
-			"ExportBundleChunkIds": [
-				"7bb897d6d85abe5e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
-			"ExportBundleChunkIds": [
-				"85eb7ec9f6c8613a00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
-			"ExportBundleChunkIds": [
-				"dd353fe85598727e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
-			"ExportBundleChunkIds": [
-				"34868b7f9c10838900000001"
 			]
 		},
 		{
@@ -3853,489 +4239,21 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Star4_1mm",
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
 			"ExportBundleChunkIds": [
-				"8ff50e13d07b6e9600000001"
-			],
-			"BulkDataChunkIds": [
-				"8ff50e13d07b6e9600000002"
+				"7bb897d6d85abe5e00000001"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Square_solid",
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
 			"ExportBundleChunkIds": [
-				"282dd182b8a2782f00000001"
-			],
-			"BulkDataChunkIds": [
-				"282dd182b8a2782f00000002"
+				"85eb7ec9f6c8613a00000001"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Square_3mm",
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
 			"ExportBundleChunkIds": [
-				"2c09f940b5d3cf5600000001"
-			],
-			"BulkDataChunkIds": [
-				"2c09f940b5d3cf5600000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Square_1mm",
-			"ExportBundleChunkIds": [
-				"d77ff1320cafb8eb00000001"
-			],
-			"BulkDataChunkIds": [
-				"d77ff1320cafb8eb00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Sphere_3mm",
-			"ExportBundleChunkIds": [
-				"3c8fe56dcc4c94e400000001"
-			],
-			"BulkDataChunkIds": [
-				"3c8fe56dcc4c94e400000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Sphere_1mm",
-			"ExportBundleChunkIds": [
-				"021da6225c7f517f00000001"
-			],
-			"BulkDataChunkIds": [
-				"021da6225c7f517f00000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire04",
-			"ExportBundleChunkIds": [
-				"6b031f6cf80188d000000001"
-			],
-			"BulkDataChunkIds": [
-				"6b031f6cf80188d000000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire05",
-			"ExportBundleChunkIds": [
-				"41ba570d5bc8e49200000001"
-			],
-			"BulkDataChunkIds": [
-				"41ba570d5bc8e49200000002"
-			]
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"ExportBundleChunkIds": [
-				"c472a8877b0ae2f900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/GradientTexture0",
-			"ExportBundleChunkIds": [
-				"f87a01e7b138538a00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/WhiteSquareTexture",
-			"ExportBundleChunkIds": [
-				"b85ee5fd59f4dd2000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
-			"ExportBundleChunkIds": [
-				"7f8259be57e87dce00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_Solver",
-			"ExportBundleChunkIds": [
-				"5c918efb403d4bb200000001"
-			],
-			"BulkDataChunkIds": [
-				"5c918efb403d4bb200000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
-			"ExportBundleChunkIds": [
-				"0bf1d6a9c47f8ccc00000001"
-			],
-			"BulkDataChunkIds": [
-				"0bf1d6a9c47f8ccc00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
-			"ExportBundleChunkIds": [
-				"ba6543c81e92e56d00000001"
-			],
-			"BulkDataChunkIds": [
-				"ba6543c81e92e56d00000002"
-			]
-		},
-		{
-			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
-			"ExportBundleChunkIds": [
-				"2cc5808063f890db00000001"
-			],
-			"BulkDataChunkIds": [
-				"2cc5808063f890db00000002"
-			]
-		},
-		{
-			"Name": "/Engine/VREditor/LaserPointer/VR_LaserPower_01",
-			"ExportBundleChunkIds": [
-				"200cd3dc0f3f673a00000001"
-			],
-			"BulkDataChunkIds": [
-				"200cd3dc0f3f673a00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/Black",
-			"ExportBundleChunkIds": [
-				"cda0cf6115260c9400000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
-			"ExportBundleChunkIds": [
-				"a996adcfa357ed2d00000001"
-			],
-			"BulkDataChunkIds": [
-				"a996adcfa357ed2d00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
-			"ExportBundleChunkIds": [
-				"730711032edb546300000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseErosion",
-			"ExportBundleChunkIds": [
-				"92d47df83dccf7d800000001"
-			],
-			"BulkDataChunkIds": [
-				"92d47df83dccf7d800000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32",
-			"ExportBundleChunkIds": [
-				"e21a9990b0ff22d600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture",
-			"ExportBundleChunkIds": [
-				"b3b465c34fc83f8e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/VolumetricClouds/CloudGradientTexture",
-			"ExportBundleChunkIds": [
-				"d28cf23bc747e18000000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_TriggerSphere",
-			"ExportBundleChunkIds": [
-				"67d4e8f2a83a1c4800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_TriggerCapsule",
-			"ExportBundleChunkIds": [
-				"a8fda97722bfb0e600000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_TriggerBox",
-			"ExportBundleChunkIds": [
-				"8953c1244c740aad00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_Trigger",
-			"ExportBundleChunkIds": [
-				"9acae5549f0219b000000001"
-			],
-			"BulkDataChunkIds": [
-				"9acae5549f0219b000000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
-			"ExportBundleChunkIds": [
-				"7a7173cfb4095b9f00000001"
-			],
-			"BulkDataChunkIds": [
-				"7a7173cfb4095b9f00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
-			"ExportBundleChunkIds": [
-				"b743bdd5e5df72a400000001"
-			],
-			"BulkDataChunkIds": [
-				"b743bdd5e5df72a400000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineFonts/RobotoDistanceField",
-			"ExportBundleChunkIds": [
-				"52a5c49a743a12b500000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
-			"ExportBundleChunkIds": [
-				"6c54e7f6d4ea912200000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
-			"ExportBundleChunkIds": [
-				"e6291a81a77661e900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/DefaultTextureCube",
-			"ExportBundleChunkIds": [
-				"3e6f2bc6739d380300000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_BoxReflectionCapture",
-			"ExportBundleChunkIds": [
-				"ff5a26a059754af200000001"
-			]
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"ExportBundleChunkIds": [
-				"2a8ace463a029fae00000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire01",
-			"ExportBundleChunkIds": [
-				"c3856b5096b2f48b00000001"
-			],
-			"BulkDataChunkIds": [
-				"c3856b5096b2f48b00000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire02",
-			"ExportBundleChunkIds": [
-				"639174cb9fe010fa00000001"
-			],
-			"BulkDataChunkIds": [
-				"639174cb9fe010fa00000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire03",
-			"ExportBundleChunkIds": [
-				"2cc1b4acbe24ea2400000001"
-			],
-			"BulkDataChunkIds": [
-				"2cc1b4acbe24ea2400000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire06",
-			"ExportBundleChunkIds": [
-				"f881296b2116f68900000001"
-			],
-			"BulkDataChunkIds": [
-				"f881296b2116f68900000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST01",
-			"ExportBundleChunkIds": [
-				"ce66927f21ed92d500000001"
-			],
-			"BulkDataChunkIds": [
-				"ce66927f21ed92d500000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST02",
-			"ExportBundleChunkIds": [
-				"bc62f55bdb8e4c9a00000001"
-			],
-			"BulkDataChunkIds": [
-				"bc62f55bdb8e4c9a00000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST03",
-			"ExportBundleChunkIds": [
-				"75cf055d50ffbad400000001"
-			],
-			"BulkDataChunkIds": [
-				"75cf055d50ffbad400000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST04",
-			"ExportBundleChunkIds": [
-				"f746c008cd6dd2a100000001"
-			],
-			"BulkDataChunkIds": [
-				"f746c008cd6dd2a100000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST05",
-			"ExportBundleChunkIds": [
-				"ef577339ac3f8a3100000001"
-			],
-			"BulkDataChunkIds": [
-				"ef577339ac3f8a3100000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MM_Pistol_Idle_ADS",
-			"ExportBundleChunkIds": [
-				"c155e784e30af86300000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Idle_Ready",
-			"ExportBundleChunkIds": [
-				"aaf36d04f83221e300000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Right",
-			"ExportBundleChunkIds": [
-				"876fd0b3b7679a9700000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/MF_Pistol_Idle_ADS",
-			"ExportBundleChunkIds": [
-				"fda317a7c6e7bb5200000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/FlatNormal",
-			"ExportBundleChunkIds": [
-				"2b69d7985d15bf2200000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"ExportBundleChunkIds": [
-				"c8548e53bc64ae9400000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Utilities/New_LUT",
-			"ExportBundleChunkIds": [
-				"d2053e0c288df1b900000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
-			"ExportBundleChunkIds": [
-				"7539f12095a3f0d100000001"
-			],
-			"BulkDataChunkIds": [
-				"7539f12095a3f0d100000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineResources/DefaultTexture",
-			"ExportBundleChunkIds": [
-				"6baf53cf79c0948b00000001"
-			],
-			"BulkDataChunkIds": [
-				"6baf53cf79c0948b00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorResources/S_Actor",
-			"ExportBundleChunkIds": [
-				"bd472f8cbf5f723d00000001"
-			],
-			"BulkDataChunkIds": [
-				"bd472f8cbf5f723d00000002"
-			]
-		},
-		{
-			"Name": "/Interchange/Utilities/T_Bayer64_Grayscale_64px",
-			"ExportBundleChunkIds": [
-				"dc070bff4266afee00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/Textures/T_White_srgb",
-			"ExportBundleChunkIds": [
-				"8b25d269c89d5cf200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/Textures/T_White_Linear",
-			"ExportBundleChunkIds": [
-				"693d58be32694a0500000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/Textures/T_Gray_Linear",
-			"ExportBundleChunkIds": [
-				"662011f8ffe9952200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/Textures/T_Generic_N",
-			"ExportBundleChunkIds": [
-				"1155c8084c57d82a00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/Textures/T_Black_srgb",
-			"ExportBundleChunkIds": [
-				"7bb138a69f4619a100000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"ExportBundleChunkIds": [
-				"b916d415e9289b5500000001"
-			]
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"ExportBundleChunkIds": [
-				"2d5d52b0905803e600000001"
-			],
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultNormal",
-			"ExportBundleChunkIds": [
-				"e790deb464e7a3d200000001"
-			],
-			"BulkDataChunkIds": [
-				"e790deb464e7a3d200000002"
-			]
-		},
-		{
-			"Name": "/Engine/EditorLandscapeResources/WhiteSquareTexture",
-			"ExportBundleChunkIds": [
-				"b5188ac73a55976200000001"
+				"dd353fe85598727e00000001"
 			]
 		},
 		{
@@ -4348,69 +4266,24 @@
 			]
 		},
 		{
-			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
 			"ExportBundleChunkIds": [
-				"927b2fe4876a1f7400000001"
+				"0ec7598e2050155600000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+			"ExportBundleChunkIds": [
+				"34868b7f9c10838900000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N",
+			"ExportBundleChunkIds": [
+				"c7cc2086eda77c4e00000001"
 			],
 			"BulkDataChunkIds": [
-				"927b2fe4876a1f7400000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/T_Sky_Stars",
-			"ExportBundleChunkIds": [
-				"56d51199b9b2142a00000001"
-			],
-			"BulkDataChunkIds": [
-				"56d51199b9b2142a00000002"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/Sound/Pistol/Wavs/PistolA_Fire_ST06",
-			"ExportBundleChunkIds": [
-				"a40bac8fe9edcc3e00000001"
-			],
-			"BulkDataChunkIds": [
-				"a40bac8fe9edcc3e00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBase",
-			"ExportBundleChunkIds": [
-				"34b40296d0d3844e00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
-			"ExportBundleChunkIds": [
-				"b1dd9666d4d25cf600000001"
-			]
-		},
-		{
-			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
-			"ExportBundleChunkIds": [
-				"eb26c788a1a10ea100000001"
-			],
-			"BulkDataChunkIds": [
-				"eb26c788a1a10ea100000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D",
-			"ExportBundleChunkIds": [
-				"19dbe87fbbbbadf300000001"
-			],
-			"BulkDataChunkIds": [
-				"19dbe87fbbbbadf300000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK",
-			"ExportBundleChunkIds": [
-				"9b537d01fc22bcae00000001"
-			],
-			"BulkDataChunkIds": [
-				"9b537d01fc22bcae00000002"
+				"c7cc2086eda77c4e00000002"
 			]
 		},
 		{
@@ -4534,21 +4407,33 @@
 			]
 		},
 		{
-			"Name": "/Interchange/Materials/LambertSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"481af9927a0fd4e500000001"
-			]
-		},
-		{
 			"Name": "/Interchange/Materials/OrenNayerMaterial",
 			"ExportBundleChunkIds": [
 				"6ef7819258ad309900000001"
 			]
 		},
 		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_1mm",
+			"ExportBundleChunkIds": [
+				"8ff50e13d07b6e9600000001"
+			],
+			"BulkDataChunkIds": [
+				"8ff50e13d07b6e9600000002"
+			]
+		},
+		{
 			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid",
 			"ExportBundleChunkIds": [
 				"1a175ae23ad6d41400000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_solid",
+			"ExportBundleChunkIds": [
+				"282dd182b8a2782f00000001"
+			],
+			"BulkDataChunkIds": [
+				"282dd182b8a2782f00000002"
 			]
 		},
 		{
@@ -4576,9 +4461,54 @@
 			]
 		},
 		{
+			"Name": "/Interchange/Functions/MX_TransmissionSurface",
+			"ExportBundleChunkIds": [
+				"9f17ab2167ce1be600000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/AO_MF_Pistol_Idle_ADS",
+			"ExportBundleChunkIds": [
+				"1225c5b7aa010cdb00000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_3mm",
+			"ExportBundleChunkIds": [
+				"2c09f940b5d3cf5600000001"
+			],
+			"BulkDataChunkIds": [
+				"2c09f940b5d3cf5600000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_GlowSphere_01",
+			"ExportBundleChunkIds": [
+				"15f3bf21ba4c778e00000001"
+			]
+		},
+		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
 			"ExportBundleChunkIds": [
 				"3a0245e4904b10b500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+			"ExportBundleChunkIds": [
+				"0e6a0028be3a2a6c00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+			"ExportBundleChunkIds": [
+				"2925796cddcc148c00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/M_Unlit",
+			"ExportBundleChunkIds": [
+				"d918e06ff9ea46e100000001"
 			]
 		},
 		{
@@ -4600,132 +4530,60 @@
 			]
 		},
 		{
+			"Name": "/Interchange/Materials/PBRSurfaceMaterial",
+			"ExportBundleChunkIds": [
+				"6e11d15e7c810c8200000001"
+			]
+		},
+		{
 			"Name": "/Interchange/Materials/ClearCoatMaterial",
 			"ExportBundleChunkIds": [
 				"00b0acb8356d298100000001"
 			]
 		},
 		{
-			"Name": "/Interchange/Functions/MX_TransmissionSurface",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CC",
 			"ExportBundleChunkIds": [
-				"9f17ab2167ce1be600000001"
+				"2b28e7f3b19946b700000001"
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/AO_MF_Pistol_Idle_ADS",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CD",
 			"ExportBundleChunkIds": [
-				"1225c5b7aa010cdb00000001"
+				"1b72e1c9e5d9364000000001"
 			]
 		},
 		{
-			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid",
+			"Name": "/Interchange/Materials/LambertSurfaceMaterial",
 			"ExportBundleChunkIds": [
-				"801dc51816054cd400000001"
+				"481af9927a0fd4e500000001"
 			]
 		},
 		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01",
+			"Name": "/ControlRig/Controls/ControlRig_Square_1mm",
 			"ExportBundleChunkIds": [
-				"4914979a467faeff00000001"
+				"d77ff1320cafb8eb00000001"
 			],
 			"BulkDataChunkIds": [
-				"4914979a467faeff00000002"
+				"d77ff1320cafb8eb00000002"
 			]
 		},
 		{
-			"Name": "/Game/Weapons/Pistol/Mesh/SK_Pistol",
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_3mm",
 			"ExportBundleChunkIds": [
-				"28d805865808282500000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Materials/M_GlowSphere_01",
-			"ExportBundleChunkIds": [
-				"15f3bf21ba4c778e00000001"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
-			"ExportBundleChunkIds": [
-				"1b32f3f341cb246000000001"
+				"3c8fe56dcc4c94e400000001"
 			],
 			"BulkDataChunkIds": [
-				"1b32f3f341cb246000000002"
+				"3c8fe56dcc4c94e400000002"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow_3mm",
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_1mm",
 			"ExportBundleChunkIds": [
-				"6ff734fd30628e8c00000001"
+				"021da6225c7f517f00000001"
 			],
 			"BulkDataChunkIds": [
-				"6ff734fd30628e8c00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Hexagon_solid",
-			"ExportBundleChunkIds": [
-				"1b6c8e2dd045aecf00000001"
-			],
-			"BulkDataChunkIds": [
-				"1b6c8e2dd045aecf00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Fwd",
-			"ExportBundleChunkIds": [
-				"9dbb7f4bd6c6325700000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Left_Pivot",
-			"ExportBundleChunkIds": [
-				"4dda218abda4832a00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Materials/Functions/CA_Mannequin_new",
-			"ExportBundleChunkIds": [
-				"a4f0502eda4f06d300000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Shared/T_UE_Logo_V2",
-			"ExportBundleChunkIds": [
-				"106803d0bc1342e400000001"
-			]
-		},
-		{
-			"Name": "/Game/Effects/Textures/General/squares",
-			"ExportBundleChunkIds": [
-				"e0c3f7414263889600000001"
-			],
-			"BulkDataChunkIds": [
-				"e0c3f7414263889600000002"
-			]
-		},
-		{
-			"Name": "/Game/Weapons/Generic/Textures/T_Weapon_N",
-			"ExportBundleChunkIds": [
-				"5e6752c7a5925f1b00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1",
-			"ExportBundleChunkIds": [
-				"f74ad23ec14b308a00000001"
-			],
-			"BulkDataChunkIds": [
-				"f74ad23ec14b308a00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2",
-			"ExportBundleChunkIds": [
-				"9d0750ee0032bdae00000001"
-			],
-			"BulkDataChunkIds": [
-				"9d0750ee0032bdae00000002"
+				"021da6225c7f517f00000002"
 			]
 		},
 		{
@@ -4810,57 +4668,57 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Pyramid_solid",
+			"Name": "/Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01",
 			"ExportBundleChunkIds": [
-				"ccfbf6fb8c94d52600000001"
+				"4914979a467faeff00000001"
 			],
 			"BulkDataChunkIds": [
-				"ccfbf6fb8c94d52600000002"
+				"4914979a467faeff00000002"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
+			"Name": "/Game/Weapons/Pistol/Mesh/SK_Pistol",
 			"ExportBundleChunkIds": [
-				"2feae67d1f28277b00000001"
-			],
-			"BulkDataChunkIds": [
-				"2feae67d1f28277b00000002"
+				"28d805865808282500000001"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Pyramid_1mm",
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit",
 			"ExportBundleChunkIds": [
-				"e28775e15c9fefaa00000001"
-			],
-			"BulkDataChunkIds": [
-				"e28775e15c9fefaa00000002"
+				"4a3ad9751c585a8100000001"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Octagon_solid",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RU",
 			"ExportBundleChunkIds": [
-				"c42798d4b7d7893a00000001"
-			],
-			"BulkDataChunkIds": [
-				"c42798d4b7d7893a00000002"
+				"6f79f85373eacb8800000001"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBU",
 			"ExportBundleChunkIds": [
-				"db28b8396928adf000000001"
-			],
-			"BulkDataChunkIds": [
-				"db28b8396928adf000000002"
+				"fb7f355e1e99c9a600000001"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Octagon_1mm",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RD",
 			"ExportBundleChunkIds": [
-				"9936bd915052cb2200000001"
+				"60bc33e667e8729f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBD",
+			"ExportBundleChunkIds": [
+				"d12c0f33a5af231100000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_solid",
+			"ExportBundleChunkIds": [
+				"1b6c8e2dd045aecf00000001"
 			],
 			"BulkDataChunkIds": [
-				"9936bd915052cb2200000002"
+				"1b6c8e2dd045aecf00000002"
 			]
 		},
 		{
@@ -4882,33 +4740,6 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_solid",
-			"ExportBundleChunkIds": [
-				"d1e559d0e2302cd200000001"
-			],
-			"BulkDataChunkIds": [
-				"d1e559d0e2302cd200000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_3mm",
-			"ExportBundleChunkIds": [
-				"41772863b6990e2300000001"
-			],
-			"BulkDataChunkIds": [
-				"41772863b6990e2300000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_1mm",
-			"ExportBundleChunkIds": [
-				"88eaefb43659df9600000001"
-			],
-			"BulkDataChunkIds": [
-				"88eaefb43659df9600000002"
-			]
-		},
-		{
 			"Name": "/ControlRig/Controls/ControlRig_Diamond_solid",
 			"ExportBundleChunkIds": [
 				"5f0bb60d5aa9cbe000000001"
@@ -4918,300 +4749,36 @@
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Diamond_3mm",
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_solid",
 			"ExportBundleChunkIds": [
-				"a91d103488503cd200000001"
+				"d1e559d0e2302cd200000001"
 			],
 			"BulkDataChunkIds": [
-				"a91d103488503cd200000002"
+				"d1e559d0e2302cd200000002"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Diamond_1mm",
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_solid",
 			"ExportBundleChunkIds": [
-				"b971d0721fc7bec800000001"
+				"ccfbf6fb8c94d52600000001"
 			],
 			"BulkDataChunkIds": [
-				"b971d0721fc7bec800000002"
+				"ccfbf6fb8c94d52600000002"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Circle_solid",
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
 			"ExportBundleChunkIds": [
-				"032dd1d44e4fc35000000001"
+				"2feae67d1f28277b00000001"
 			],
 			"BulkDataChunkIds": [
-				"032dd1d44e4fc35000000002"
+				"2feae67d1f28277b00000002"
 			]
 		},
 		{
-			"Name": "/ControlRig/Controls/ControlRig_Circle_3mm",
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid",
 			"ExportBundleChunkIds": [
-				"26708189dce06d9c00000001"
-			],
-			"BulkDataChunkIds": [
-				"26708189dce06d9c00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
-			"ExportBundleChunkIds": [
-				"b0e6f22a1229f33400000001"
-			],
-			"BulkDataChunkIds": [
-				"b0e6f22a1229f33400000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Box_solid",
-			"ExportBundleChunkIds": [
-				"b6ecf8eaf9e325c400000001"
-			],
-			"BulkDataChunkIds": [
-				"b6ecf8eaf9e325c400000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Box_3mm",
-			"ExportBundleChunkIds": [
-				"1d2105a53b99f8b400000001"
-			],
-			"BulkDataChunkIds": [
-				"1d2105a53b99f8b400000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
-			"ExportBundleChunkIds": [
-				"0bd00fa41afbdaed00000001"
-			],
-			"BulkDataChunkIds": [
-				"0bd00fa41afbdaed00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow_solid",
-			"ExportBundleChunkIds": [
-				"4bf1e0df3070bca100000001"
-			],
-			"BulkDataChunkIds": [
-				"4bf1e0df3070bca100000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow_1mm",
-			"ExportBundleChunkIds": [
-				"c37eb6c5460e3abb00000001"
-			],
-			"BulkDataChunkIds": [
-				"c37eb6c5460e3abb00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow4_solid",
-			"ExportBundleChunkIds": [
-				"34f8d388913445db00000001"
-			],
-			"BulkDataChunkIds": [
-				"34f8d388913445db00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow4_3mm",
-			"ExportBundleChunkIds": [
-				"d623d5bc8818ccbe00000001"
-			],
-			"BulkDataChunkIds": [
-				"d623d5bc8818ccbe00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow4_1mm",
-			"ExportBundleChunkIds": [
-				"42cab4d3ee68987100000001"
-			],
-			"BulkDataChunkIds": [
-				"42cab4d3ee68987100000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow2_solid",
-			"ExportBundleChunkIds": [
-				"dbdfc4bccd3d616d00000001"
-			],
-			"BulkDataChunkIds": [
-				"dbdfc4bccd3d616d00000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow2_3mm",
-			"ExportBundleChunkIds": [
-				"29ff7e5dd78cdef100000001"
-			],
-			"BulkDataChunkIds": [
-				"29ff7e5dd78cdef100000002"
-			]
-		},
-		{
-			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
-			"ExportBundleChunkIds": [
-				"a9e8edb09171185f00000001"
-			],
-			"BulkDataChunkIds": [
-				"a9e8edb09171185f00000002"
-			]
-		},
-		{
-			"Name": "/Engine/EngineSky/SM_SkySphere",
-			"ExportBundleChunkIds": [
-				"48df828be219f7ad00000001"
-			],
-			"BulkDataChunkIds": [
-				"48df828be219f7ad00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBU",
-			"ExportBundleChunkIds": [
-				"fb7f355e1e99c9a600000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RC",
-			"ExportBundleChunkIds": [
-				"96ad06d0a3f20b4c00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RD",
-			"ExportBundleChunkIds": [
-				"60bc33e667e8729f00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RU",
-			"ExportBundleChunkIds": [
-				"6f79f85373eacb8800000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
-			"ExportBundleChunkIds": [
-				"0e6a0028be3a2a6c00000001"
-			]
-		},
-		{
-			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
-			"ExportBundleChunkIds": [
-				"2925796cddcc148c00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/M_Unlit",
-			"ExportBundleChunkIds": [
-				"d918e06ff9ea46e100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/Materials/PBRSurfaceMaterial",
-			"ExportBundleChunkIds": [
-				"6e11d15e7c810c8200000001"
-			]
-		},
-		{
-			"Name": "/Game/Weapons/Pistol/Textures/T_Pistol_AORM",
-			"ExportBundleChunkIds": [
-				"35b55f660671f57a00000001"
-			],
-			"BulkDataChunkIds": [
-				"35b55f660671f57a00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3",
-			"ExportBundleChunkIds": [
-				"7b2d45359e0fa5d400000001"
-			],
-			"BulkDataChunkIds": [
-				"7b2d45359e0fa5d400000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal",
-			"ExportBundleChunkIds": [
-				"fd75c537069a7dd000000001"
-			],
-			"BulkDataChunkIds": [
-				"fd75c537069a7dd000000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N",
-			"ExportBundleChunkIds": [
-				"f63e131d940b139d00000001"
-			],
-			"BulkDataChunkIds": [
-				"f63e131d940b139d00000002"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit",
-			"ExportBundleChunkIds": [
-				"4a3ad9751c585a8100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Transmission",
-			"ExportBundleChunkIds": [
-				"939a0b8c0358052300000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen",
-			"ExportBundleChunkIds": [
-				"d4fd3bb0dcf0028200000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent",
-			"ExportBundleChunkIds": [
-				"123405530a03c77100000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque",
-			"ExportBundleChunkIds": [
-				"9976270f2cfbf30600000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS",
-			"ExportBundleChunkIds": [
-				"7d054fc33a3fce1b00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS",
-			"ExportBundleChunkIds": [
-				"b320bc84dd8973e000000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen",
-			"ExportBundleChunkIds": [
-				"7b77ddbf8026972c00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBC",
-			"ExportBundleChunkIds": [
-				"3241fad12083ed7c00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBD",
-			"ExportBundleChunkIds": [
-				"d12c0f33a5af231100000001"
+				"801dc51816054cd400000001"
 			]
 		},
 		{
@@ -5281,6 +4848,258 @@
 			]
 		},
 		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_1mm",
+			"ExportBundleChunkIds": [
+				"e28775e15c9fefaa00000001"
+			],
+			"BulkDataChunkIds": [
+				"e28775e15c9fefaa00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_solid",
+			"ExportBundleChunkIds": [
+				"c42798d4b7d7893a00000001"
+			],
+			"BulkDataChunkIds": [
+				"c42798d4b7d7893a00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
+			"ExportBundleChunkIds": [
+				"db28b8396928adf000000001"
+			],
+			"BulkDataChunkIds": [
+				"db28b8396928adf000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_1mm",
+			"ExportBundleChunkIds": [
+				"9936bd915052cb2200000001"
+			],
+			"BulkDataChunkIds": [
+				"9936bd915052cb2200000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RC",
+			"ExportBundleChunkIds": [
+				"96ad06d0a3f20b4c00000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LU",
+			"ExportBundleChunkIds": [
+				"25ad3733bed5e1d800000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_RBC",
+			"ExportBundleChunkIds": [
+				"3241fad12083ed7c00000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_1mm",
+			"ExportBundleChunkIds": [
+				"88eaefb43659df9600000001"
+			],
+			"BulkDataChunkIds": [
+				"88eaefb43659df9600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
+			"ExportBundleChunkIds": [
+				"b0e6f22a1229f33400000001"
+			],
+			"BulkDataChunkIds": [
+				"b0e6f22a1229f33400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_solid",
+			"ExportBundleChunkIds": [
+				"b6ecf8eaf9e325c400000001"
+			],
+			"BulkDataChunkIds": [
+				"b6ecf8eaf9e325c400000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
+			"ExportBundleChunkIds": [
+				"0bd00fa41afbdaed00000001"
+			],
+			"BulkDataChunkIds": [
+				"0bd00fa41afbdaed00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_3mm",
+			"ExportBundleChunkIds": [
+				"a91d103488503cd200000001"
+			],
+			"BulkDataChunkIds": [
+				"a91d103488503cd200000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_1mm",
+			"ExportBundleChunkIds": [
+				"b971d0721fc7bec800000001"
+			],
+			"BulkDataChunkIds": [
+				"b971d0721fc7bec800000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_solid",
+			"ExportBundleChunkIds": [
+				"032dd1d44e4fc35000000001"
+			],
+			"BulkDataChunkIds": [
+				"032dd1d44e4fc35000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_3mm",
+			"ExportBundleChunkIds": [
+				"26708189dce06d9c00000001"
+			],
+			"BulkDataChunkIds": [
+				"26708189dce06d9c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_3mm",
+			"ExportBundleChunkIds": [
+				"41772863b6990e2300000001"
+			],
+			"BulkDataChunkIds": [
+				"41772863b6990e2300000002"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Transmission",
+			"ExportBundleChunkIds": [
+				"939a0b8c0358052300000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen",
+			"ExportBundleChunkIds": [
+				"d4fd3bb0dcf0028200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Translucent",
+			"ExportBundleChunkIds": [
+				"123405530a03c77100000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_3mm",
+			"ExportBundleChunkIds": [
+				"1d2105a53b99f8b400000001"
+			],
+			"BulkDataChunkIds": [
+				"1d2105a53b99f8b400000002"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS",
+			"ExportBundleChunkIds": [
+				"b320bc84dd8973e000000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_1mm",
+			"ExportBundleChunkIds": [
+				"c37eb6c5460e3abb00000001"
+			],
+			"BulkDataChunkIds": [
+				"c37eb6c5460e3abb00000002"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque",
+			"ExportBundleChunkIds": [
+				"119b3e4cfa98fb2a00000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_01_Blue",
+			"ExportBundleChunkIds": [
+				"1f1fce0cf647894500000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_solid",
+			"ExportBundleChunkIds": [
+				"34f8d388913445db00000001"
+			],
+			"BulkDataChunkIds": [
+				"34f8d388913445db00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT",
+			"ExportBundleChunkIds": [
+				"4eefe050ec0582d800000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_02_Blue",
+			"ExportBundleChunkIds": [
+				"f7d1f0d7fc98d5a200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat",
+			"ExportBundleChunkIds": [
+				"f649501136fe389200000001"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Map_01",
+			"ExportBundleChunkIds": [
+				"812c0abcb3635eca00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat",
+			"ExportBundleChunkIds": [
+				"a3739079b5cbf53d00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque",
+			"ExportBundleChunkIds": [
+				"9976270f2cfbf30600000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS",
+			"ExportBundleChunkIds": [
+				"7d054fc33a3fce1b00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS",
+			"ExportBundleChunkIds": [
+				"3af1a6ee62b1c44f00000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen",
+			"ExportBundleChunkIds": [
+				"7b77ddbf8026972c00000001"
+			]
+		},
+		{
 			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS",
 			"ExportBundleChunkIds": [
 				"88ff872ce265b5b800000001"
@@ -5341,33 +5160,246 @@
 			]
 		},
 		{
-			"Name": "/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBU",
 			"ExportBundleChunkIds": [
-				"a3739079b5cbf53d00000001"
+				"fe0db693c80e18d300000001"
 			]
 		},
 		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LC",
 			"ExportBundleChunkIds": [
-				"119b3e4cfa98fb2a00000001"
+				"6584dccd6c68f30f00000001"
 			]
 		},
 		{
-			"Name": "/Game/Maps/Map_01",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LD",
 			"ExportBundleChunkIds": [
-				"812c0abcb3635eca00000001"
+				"f6f48d85a85b477000000001"
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_01_Blue",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CU",
 			"ExportBundleChunkIds": [
-				"1f1fce0cf647894500000001"
+				"7f6f220cf5bb829300000001"
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Materials/Instances/Quinn/MI_Quinn_02_Blue",
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBC",
 			"ExportBundleChunkIds": [
-				"f7d1f0d7fc98d5a200000001"
+				"37a90bdcc8e840c000000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBD",
+			"ExportBundleChunkIds": [
+				"83105ba05cbfa63100000001"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_3mm",
+			"ExportBundleChunkIds": [
+				"d623d5bc8818ccbe00000001"
+			],
+			"BulkDataChunkIds": [
+				"d623d5bc8818ccbe00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_1mm",
+			"ExportBundleChunkIds": [
+				"42cab4d3ee68987100000001"
+			],
+			"BulkDataChunkIds": [
+				"42cab4d3ee68987100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/SM_SkySphere",
+			"ExportBundleChunkIds": [
+				"48df828be219f7ad00000001"
+			],
+			"BulkDataChunkIds": [
+				"48df828be219f7ad00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_solid",
+			"ExportBundleChunkIds": [
+				"dbdfc4bccd3d616d00000001"
+			],
+			"BulkDataChunkIds": [
+				"dbdfc4bccd3d616d00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_3mm",
+			"ExportBundleChunkIds": [
+				"29ff7e5dd78cdef100000001"
+			],
+			"BulkDataChunkIds": [
+				"29ff7e5dd78cdef100000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
+			"ExportBundleChunkIds": [
+				"a9e8edb09171185f00000001"
+			],
+			"BulkDataChunkIds": [
+				"a9e8edb09171185f00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
+			"ExportBundleChunkIds": [
+				"1b32f3f341cb246000000001"
+			],
+			"BulkDataChunkIds": [
+				"1b32f3f341cb246000000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_3mm",
+			"ExportBundleChunkIds": [
+				"6ff734fd30628e8c00000001"
+			],
+			"BulkDataChunkIds": [
+				"6ff734fd30628e8c00000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_solid",
+			"ExportBundleChunkIds": [
+				"4bf1e0df3070bca100000001"
+			],
+			"BulkDataChunkIds": [
+				"4bf1e0df3070bca100000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Materials/Functions/CA_Mannequin_new",
+			"ExportBundleChunkIds": [
+				"a4f0502eda4f06d300000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3",
+			"ExportBundleChunkIds": [
+				"5549760037a9041200000001"
+			],
+			"BulkDataChunkIds": [
+				"5549760037a9041200000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N",
+			"ExportBundleChunkIds": [
+				"3022338bce7cad6000000001"
+			],
+			"BulkDataChunkIds": [
+				"3022338bce7cad6000000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Textures/T_Pistol_MuzzleFlashes_4x1_B",
+			"ExportBundleChunkIds": [
+				"46b3a701d3b046dd00000001"
+			],
+			"BulkDataChunkIds": [
+				"46b3a701d3b046dd00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/T_Sky_Clouds_M",
+			"ExportBundleChunkIds": [
+				"927b2fe4876a1f7400000001"
+			],
+			"BulkDataChunkIds": [
+				"927b2fe4876a1f7400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"ExportBundleChunkIds": [
+				"2d5d52b0905803e600000001"
+			],
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/S_Actor",
+			"ExportBundleChunkIds": [
+				"bd472f8cbf5f723d00000001"
+			],
+			"BulkDataChunkIds": [
+				"bd472f8cbf5f723d00000002"
+			]
+		},
+		{
+			"Name": "/Interchange/Utilities/T_Bayer64_Grayscale_64px",
+			"ExportBundleChunkIds": [
+				"dc070bff4266afee00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"ExportBundleChunkIds": [
+				"b916d415e9289b5500000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"ExportBundleChunkIds": [
+				"c8548e53bc64ae9400000001"
+			]
+		},
+		{
+			"Name": "/Interchange/Utilities/New_LUT",
+			"ExportBundleChunkIds": [
+				"d2053e0c288df1b900000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/Textures/T_White_srgb",
+			"ExportBundleChunkIds": [
+				"8b25d269c89d5cf200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/Textures/T_White_Linear",
+			"ExportBundleChunkIds": [
+				"693d58be32694a0500000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/Textures/T_Black_srgb",
+			"ExportBundleChunkIds": [
+				"7bb138a69f4619a100000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/Textures/T_Gray_Linear",
+			"ExportBundleChunkIds": [
+				"662011f8ffe9952200000001"
+			]
+		},
+		{
+			"Name": "/Interchange/gltf/Textures/T_Generic_N",
+			"ExportBundleChunkIds": [
+				"1155c8084c57d82a00000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
+			"ExportBundleChunkIds": [
+				"6c54e7f6d4ea912200000001"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"ExportBundleChunkIds": [
+				"b60efe12572543e800000001"
 			]
 		},
 		{
@@ -5383,90 +5415,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D",
-			"ExportBundleChunkIds": [
-				"98bcad9eff20831d00000001"
-			],
-			"BulkDataChunkIds": [
-				"98bcad9eff20831d00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LD",
-			"ExportBundleChunkIds": [
-				"f6f48d85a85b477000000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LU",
-			"ExportBundleChunkIds": [
-				"25ad3733bed5e1d800000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS",
-			"ExportBundleChunkIds": [
-				"3af1a6ee62b1c44f00000001"
-			]
-		},
-		{
-			"Name": "/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat",
-			"ExportBundleChunkIds": [
-				"f649501136fe389200000001"
-			]
-		},
-		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
 			"ExportBundleChunkIds": [
 				"b059d54260cfd24100000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LC",
-			"ExportBundleChunkIds": [
-				"6584dccd6c68f30f00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK",
-			"ExportBundleChunkIds": [
-				"afedccbd192f0a6e00000001"
-			],
-			"BulkDataChunkIds": [
-				"afedccbd192f0a6e00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1",
-			"ExportBundleChunkIds": [
-				"3ecee3a65102694300000001"
-			],
-			"BulkDataChunkIds": [
-				"3ecee3a65102694300000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2",
-			"ExportBundleChunkIds": [
-				"0859394a314afb5c00000001"
-			],
-			"BulkDataChunkIds": [
-				"0859394a314afb5c00000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3",
-			"ExportBundleChunkIds": [
-				"6d781382b19f817700000001"
-			],
-			"BulkDataChunkIds": [
-				"6d781382b19f817700000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBU",
-			"ExportBundleChunkIds": [
-				"fe0db693c80e18d300000001"
 			]
 		},
 		{
@@ -5485,6 +5436,18 @@
 			"Name": "/Game/Widgets/WB_MainMenu",
 			"ExportBundleChunkIds": [
 				"2ae5e12cfbdcf9d400000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/WB_MPMenu",
+			"ExportBundleChunkIds": [
+				"d3c43a39b11ca4a900000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/WB_serverrow",
+			"ExportBundleChunkIds": [
+				"adc2ffb8ae71dc3900000001"
 			]
 		},
 		{
@@ -5512,33 +5475,132 @@
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBC",
+			"Name": "/Engine/EngineMaterials/BlendFunc_DefBlend",
 			"ExportBundleChunkIds": [
-				"37a90bdcc8e840c000000001"
+				"b1dd9666d4d25cf600000001"
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_LBD",
+			"Name": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A",
 			"ExportBundleChunkIds": [
-				"83105ba05cbfa63100000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_N",
-			"ExportBundleChunkIds": [
-				"c7cc2086eda77c4e00000001"
+				"eb26c788a1a10ea100000001"
 			],
 			"BulkDataChunkIds": [
-				"c7cc2086eda77c4e00000002"
+				"eb26c788a1a10ea100000002"
 			]
 		},
 		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Textures/T_Pistol_MuzzleFlashes_4x1_B",
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_D",
 			"ExportBundleChunkIds": [
-				"46b3a701d3b046dd00000001"
+				"19dbe87fbbbbadf300000001"
 			],
 			"BulkDataChunkIds": [
-				"46b3a701d3b046dd00000002"
+				"19dbe87fbbbbadf300000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK",
+			"ExportBundleChunkIds": [
+				"9b537d01fc22bcae00000001"
+			],
+			"BulkDataChunkIds": [
+				"9b537d01fc22bcae00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EditorResources/EmptyActor",
+			"ExportBundleChunkIds": [
+				"cb90c94586b3228900000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK1",
+			"ExportBundleChunkIds": [
+				"f74ad23ec14b308a00000001"
+			],
+			"BulkDataChunkIds": [
+				"f74ad23ec14b308a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK2",
+			"ExportBundleChunkIds": [
+				"9d0750ee0032bdae00000001"
+			],
+			"BulkDataChunkIds": [
+				"9d0750ee0032bdae00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_MSK3",
+			"ExportBundleChunkIds": [
+				"7b2d45359e0fa5d400000001"
+			],
+			"BulkDataChunkIds": [
+				"7b2d45359e0fa5d400000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_01_N",
+			"ExportBundleChunkIds": [
+				"f63e131d940b139d00000001"
+			],
+			"BulkDataChunkIds": [
+				"f63e131d940b139d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal",
+			"ExportBundleChunkIds": [
+				"fd75c537069a7dd000000001"
+			],
+			"BulkDataChunkIds": [
+				"fd75c537069a7dd000000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_D",
+			"ExportBundleChunkIds": [
+				"98bcad9eff20831d00000001"
+			],
+			"BulkDataChunkIds": [
+				"98bcad9eff20831d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Weapons/Pistol/Textures/T_Pistol_AORM",
+			"ExportBundleChunkIds": [
+				"35b55f660671f57a00000001"
+			],
+			"BulkDataChunkIds": [
+				"35b55f660671f57a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK",
+			"ExportBundleChunkIds": [
+				"afedccbd192f0a6e00000001"
+			],
+			"BulkDataChunkIds": [
+				"afedccbd192f0a6e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK2",
+			"ExportBundleChunkIds": [
+				"0859394a314afb5c00000001"
+			],
+			"BulkDataChunkIds": [
+				"0859394a314afb5c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK3",
+			"ExportBundleChunkIds": [
+				"6d781382b19f817700000001"
+			],
+			"BulkDataChunkIds": [
+				"6d781382b19f817700000002"
 			]
 		},
 		{
@@ -5569,30 +5631,21 @@
 			]
 		},
 		{
-			"Name": "/Engine/EditorResources/EmptyActor",
-			"ExportBundleChunkIds": [
-				"cb90c94586b3228900000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CD",
-			"ExportBundleChunkIds": [
-				"1b72e1c9e5d9364000000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CU",
-			"ExportBundleChunkIds": [
-				"7f6f220cf5bb829300000001"
-			]
-		},
-		{
 			"Name": "/Game/MilitaryWeapSilver/FX/Textures/T_Spherical_NormalMap_01",
 			"ExportBundleChunkIds": [
 				"6c90eb3e4deca1dd00000001"
 			],
 			"BulkDataChunkIds": [
 				"6c90eb3e4deca1dd00000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/Textures/T_Smoke_8x8_B_01",
+			"ExportBundleChunkIds": [
+				"6592c0ac8334555a00000001"
+			],
+			"BulkDataChunkIds": [
+				"6592c0ac8334555a00000002"
 			]
 		},
 		{
@@ -5614,51 +5667,12 @@
 			]
 		},
 		{
-			"Name": "/Game/MilitaryWeapSilver/FX/Textures/T_Smoke_8x8_B_01",
-			"ExportBundleChunkIds": [
-				"6592c0ac8334555a00000001"
-			],
-			"BulkDataChunkIds": [
-				"6592c0ac8334555a00000002"
-			]
-		},
-		{
 			"Name": "/Game/Weapons/Pistol/Textures/T_Pistol_N",
 			"ExportBundleChunkIds": [
 				"c4f40fc46d2698d600000001"
 			],
 			"BulkDataChunkIds": [
 				"c4f40fc46d2698d600000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/AimOffsets/MF_Pistol_Idle_ADS_AO_CC",
-			"ExportBundleChunkIds": [
-				"2b28e7f3b19946b700000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Walk_Bwd",
-			"ExportBundleChunkIds": [
-				"32fe69a434750fb800000001"
-			]
-		},
-		{
-			"Name": "/Game/Weapons/Generic/Textures/T_Weapon_Mask",
-			"ExportBundleChunkIds": [
-				"4ad85c1809adf80d00000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Left",
-			"ExportBundleChunkIds": [
-				"3aff7d0bd659dae400000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Right",
-			"ExportBundleChunkIds": [
-				"0b095a9b218a41d300000001"
 			]
 		},
 		{
@@ -5710,39 +5724,15 @@
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Bwd",
+			"Name": "/Game/Weapons/Generic/Textures/T_Weapon_Mask",
 			"ExportBundleChunkIds": [
-				"231403520a9768d000000001"
+				"4ad85c1809adf80d00000001"
 			]
 		},
 		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MF_Unarmed_Jog_Fwd",
+			"Name": "/Game/Weapons/Generic/Textures/T_Weapon_N",
 			"ExportBundleChunkIds": [
-				"e2ccb6b14ca411f700000001"
-			]
-		},
-		{
-			"Name": "/Game/MilitaryWeapSilver/FX/P_Pistol_MuzzleFlash_01",
-			"ExportBundleChunkIds": [
-				"6ae3ff249214a3d800000001"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3",
-			"ExportBundleChunkIds": [
-				"5549760037a9041200000001"
-			],
-			"BulkDataChunkIds": [
-				"5549760037a9041200000002"
-			]
-		},
-		{
-			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N",
-			"ExportBundleChunkIds": [
-				"3022338bce7cad6000000001"
-			],
-			"BulkDataChunkIds": [
-				"3022338bce7cad6000000002"
+				"5e6752c7a5925f1b00000001"
 			]
 		},
 		{
@@ -5752,6 +5742,36 @@
 			],
 			"BulkDataChunkIds": [
 				"7a9b4c5ce17227eb00000002"
+			]
+		},
+		{
+			"Name": "/Game/Effects/Textures/General/squares",
+			"ExportBundleChunkIds": [
+				"e0c3f7414263889600000001"
+			],
+			"BulkDataChunkIds": [
+				"e0c3f7414263889600000002"
+			]
+		},
+		{
+			"Name": "/Game/MilitaryWeapSilver/FX/P_Pistol_MuzzleFlash_01",
+			"ExportBundleChunkIds": [
+				"6ae3ff249214a3d800000001"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Quinn/T_Quinn_02_MSK1",
+			"ExportBundleChunkIds": [
+				"3ecee3a65102694300000001"
+			],
+			"BulkDataChunkIds": [
+				"3ecee3a65102694300000002"
+			]
+		},
+		{
+			"Name": "/Game/Characters/Heroes/Mannequin/Textures/Shared/T_UE_Logo_V2",
+			"ExportBundleChunkIds": [
+				"106803d0bc1342e400000001"
 			]
 		}
 	]
