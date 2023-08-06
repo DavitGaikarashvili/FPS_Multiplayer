@@ -35,10 +35,13 @@
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/TravelMap.umap",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Widgets/WB_loadScreen.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Widgets/Screenshot_2023-05-18_151443.uasset",
-				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/Map_02.umap",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Map_02.umap",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Widgets/map1.uasset",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Widgets/map2.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/S_levelinfo.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/LevelInfo_Table.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Widgets/WB_LevelRowInfo.uasset",
+				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Maps/Menu/Map_02.umap",
 				"E:/GDC/FPS_Multiplayer/FPS_multiplayer/Content/Map_01.umap"
 			]
 		}
