@@ -1,4 +1,0 @@
-Engine/Binaries/Win64/UnrealGame-Win64-Shipping.pdb	2022-12-20T08:31:06.225Z
-Engine/Binaries/Win64/tbb.pdb	2022-12-20T08:28:29.904Z
-Engine/Content/SlateDebug/Fonts/LastResort.tps	2022-12-20T08:35:26.284Z
-Engine/Content/SlateDebug/Fonts/LastResort.ttf	2022-12-20T08:35:27.180Z
