@@ -49,7 +49,7 @@ void EncodeGBufferToMRT(inout FPixelShaderOut Out, FGBufferData GBuffer, float Q
 	MrtFloat4.w = GBuffer.CustomData.w;
 
 	Out.MRT[1] = MrtFloat1;
-	Out.MRT[2] = float4(MrtFloat2.x, MrtFloat2.y, MrtFloat2.z, (float(MrtUint2.w) + .5f) / 255.0f);
+	Out.MRT[2] = float4(MrtFloat2.x, MrtFloat2.y, MrtFloat2.z, float(MrtUint2.w) / 255.0f);
 	Out.MRT[3] = MrtFloat3;
 	Out.MRT[4] = MrtFloat4;
 	Out.MRT[5] = MrtFloat5;
@@ -282,7 +282,7 @@ void EncodeGBufferToMRT(inout FPixelShaderOut Out, FGBufferData GBuffer, float Q
 	MrtFloat5.w = GBuffer.CustomData.w;
 
 	Out.MRT[1] = MrtFloat1;
-	Out.MRT[2] = float4(MrtFloat2.x, MrtFloat2.y, MrtFloat2.z, (float(MrtUint2.w) + .5f) / 255.0f);
+	Out.MRT[2] = float4(MrtFloat2.x, MrtFloat2.y, MrtFloat2.z, float(MrtUint2.w) / 255.0f);
 	Out.MRT[3] = MrtFloat3;
 	Out.MRT[4] = float4(MrtFloat4.x, MrtFloat4.y, 0.0f, 0.0f);
 	Out.MRT[5] = MrtFloat5;
