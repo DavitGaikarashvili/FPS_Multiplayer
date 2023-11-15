@@ -1192,3 +1192,49 @@ Minimum required: 526.47
 [2023.11.15-19.34.32:805][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms
 [2023.11.15-19.34.32:828][309]AssetCheck: New page: Asset Save: IK_Mannequin
 [2023.11.15-19.34.32:892][309]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2023.11.15-19.40.13:337][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-19.40.13:433][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Animations/IK_Mannequin" FILE="../../../../GDC/FPS_Multiplayer/Fps_multyplayer/Content/Blueprints/Player/Animations/IK_Mannequin.uasset" SILENT=true
+[2023.11.15-19.40.13:441][524]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2023.11.15-19.40.13:441][524]LogSavePackage: Moving '../../../../GDC/FPS_Multiplayer/Fps_multyplayer/Saved/IK_MannequinA1F954C046398CC359EEE58F347F4E55.tmp' to '../../../../GDC/FPS_Multiplayer/Fps_multyplayer/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2023.11.15-19.40.13:451][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 289 ms)
+[2023.11.15-19.40.13:466][524]AssetCheck: New page: Asset Save: IK_Mannequin
+[2023.11.15-19.40.13:466][524]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2023.11.15-19.40.15:001][599]LogSlate: Took 0.027711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.15-19.40.22:681][973]LogContentBrowser: Deferred new asset file creation: IK_Mannequin1
+[2023.11.15-19.40.23:323][973]LogContentBrowser: Creating deferred item: IK_Mannequin1
+[2023.11.15-19.40.23:340][974]LogContentBrowser: Renaming the item being created (Deferred Item: IK_Mannequin1).
+[2023.11.15-19.40.32:592][522]LogContentBrowser: Attempting asset rename: IK_Mannequin1 -> IK_Player
+[2023.11.15-19.40.32:771][522]LogContentBrowser: End creating deferred item IK_Mannequin1
+[2023.11.15-19.40.34:339][611]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Player.IK_Player
+[2023.11.15-19.40.34:340][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-19.40.34:340][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-19.40.34:379][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.11.15-19.40.34:379][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.11.15-19.40.34:809][611]LogViewport: Scene viewport resized to 922x463, mode Windowed.
+[2023.11.15-19.40.37:403][757]LogViewport: Scene viewport resized to 1087x586, mode Windowed.
+[2023.11.15-19.40.39:507][858]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.15-19.40.39:707][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: ================================================
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: Total job queries 30, among them cache hits 0 (0.00%)
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 24 distinct outputs (80.00%)
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: RAM used: 770.45 KiB of 819.20 MiB budget. Usage: 0.09%
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.15-19.40.39:832][860]LogShaderCompilers: Display: ================================================
+[2023.11.15-19.40.40:078][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-19.40.52:376][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.11.15-19.40.58:435][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.11.15-19.41.01:267][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-19.41.01:368][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/Animations/IK_Player" FILE="../../../../GDC/FPS_Multiplayer/Fps_multyplayer/Content/Blueprints/Player/Animations/IK_Player.uasset" SILENT=true
+[2023.11.15-19.41.01:376][981]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Player
+[2023.11.15-19.41.01:376][981]LogSavePackage: Moving '../../../../GDC/FPS_Multiplayer/Fps_multyplayer/Saved/IK_Player893281F04F492CB68DFFE29A5A23C8DB.tmp' to '../../../../GDC/FPS_Multiplayer/Fps_multyplayer/Content/Blueprints/Player/Animations/IK_Player.uasset'
+[2023.11.15-19.41.01:392][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 414 ms)
+[2023.11.15-19.41.01:402][981]AssetCheck: New page: Asset Save: IK_Player
+[2023.11.15-19.41.01:402][981]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Player.IK_Player
+[2023.11.15-19.41.04:913][175]LogSlate: Window 'IK_Player' being destroyed
+[2023.11.15-19.41.04:924][175]LogSlate: Window 'IK_Player' being destroyed
+[2023.11.15-19.41.05:129][175]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-19.41.05:129][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
